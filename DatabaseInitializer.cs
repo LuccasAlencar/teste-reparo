@@ -129,35 +129,53 @@ CREATE TABLE moto (
 )";
         await cmd.ExecuteNonQueryAsync(ct);
 
-        // ========== INSERT SEED DATA ==========
-        cmd.CommandText = @"
-INSERT INTO usuario (id, usuario, senha) VALUES (1, 'admin', 'admin@123');
-INSERT INTO usuario (id, usuario, senha) VALUES (2, 'operador', '123456');";
+        // ========== INSERT SEED DATA (each INSERT executed separately) ==========
+        
+        // Usuarios
+        cmd.CommandText = "INSERT INTO usuario (id, usuario, senha) VALUES (1, 'admin', 'admin@123')";
+        await cmd.ExecuteNonQueryAsync(ct);
+        
+        cmd.CommandText = "INSERT INTO usuario (id, usuario, senha) VALUES (2, 'operador', '123456')";
         await cmd.ExecuteNonQueryAsync(ct);
 
-        cmd.CommandText = @"
-INSERT INTO zona (id, nome, letra) VALUES (1, 'Norte', 'N');
-INSERT INTO zona (id, nome, letra) VALUES (2, 'Sul', 'S');";
+        // Zonas
+        cmd.CommandText = "INSERT INTO zona (id, nome, letra) VALUES (1, 'Norte', 'N')";
+        await cmd.ExecuteNonQueryAsync(ct);
+        
+        cmd.CommandText = "INSERT INTO zona (id, nome, letra) VALUES (2, 'Sul', 'S')";
         await cmd.ExecuteNonQueryAsync(ct);
 
-        cmd.CommandText = @"
-INSERT INTO patio (id, nome) VALUES (1, 'Pátio A');
-INSERT INTO patio (id, nome) VALUES (2, 'Pátio B');";
+        // Patios
+        cmd.CommandText = "INSERT INTO patio (id, nome) VALUES (1, 'Pátio A')";
+        await cmd.ExecuteNonQueryAsync(ct);
+        
+        cmd.CommandText = "INSERT INTO patio (id, nome) VALUES (2, 'Pátio B')";
         await cmd.ExecuteNonQueryAsync(ct);
 
-        cmd.CommandText = @"
-INSERT INTO status_grupo (id, nome) VALUES (1, 'Operacional');
-INSERT INTO status_grupo (id, nome) VALUES (2, 'Exceção');
-INSERT INTO status (id, nome, status_grupo_id) VALUES (1, 'OK', 1);
-INSERT INTO status (id, nome, status_grupo_id) VALUES (2, 'Manutenção', 1);
-INSERT INTO status (id, nome, status_grupo_id) VALUES (3, 'Sinistro', 2);";
+        // Status Grupos
+        cmd.CommandText = "INSERT INTO status_grupo (id, nome) VALUES (1, 'Operacional')";
+        await cmd.ExecuteNonQueryAsync(ct);
+        
+        cmd.CommandText = "INSERT INTO status_grupo (id, nome) VALUES (2, 'Exceção')";
         await cmd.ExecuteNonQueryAsync(ct);
 
-        cmd.CommandText = @"
-INSERT INTO moto (id, placa, chassi, qr_code, data_entrada, previsao_entrega, fotos, zona_id, patio_id, status_id, observacoes)
-VALUES (1, 'ABC1D23', '9BWZZZ377VT004251', 'QR001', SYSTIMESTAMP, SYSTIMESTAMP+1, null, 1, 1, 1, 'Moto em perfeito estado');
-INSERT INTO moto (id, placa, chassi, qr_code, data_entrada, previsao_entrega, fotos, zona_id, patio_id, status_id, observacoes)
-VALUES (2, 'EFG4H56', '9BWZZZ377VT004252', 'QR002', SYSTIMESTAMP, null, null, 2, 2, 2, 'Em manutenção preventiva');";
+        // Status
+        cmd.CommandText = "INSERT INTO status (id, nome, status_grupo_id) VALUES (1, 'OK', 1)";
+        await cmd.ExecuteNonQueryAsync(ct);
+        
+        cmd.CommandText = "INSERT INTO status (id, nome, status_grupo_id) VALUES (2, 'Manutenção', 1)";
+        await cmd.ExecuteNonQueryAsync(ct);
+        
+        cmd.CommandText = "INSERT INTO status (id, nome, status_grupo_id) VALUES (3, 'Sinistro', 2)";
+        await cmd.ExecuteNonQueryAsync(ct);
+
+        // Motos
+        cmd.CommandText = @"INSERT INTO moto (id, placa, chassi, qr_code, data_entrada, previsao_entrega, fotos, zona_id, patio_id, status_id, observacoes)
+VALUES (1, 'ABC1D23', '9BWZZZ377VT004251', 'QR001', SYSTIMESTAMP, SYSTIMESTAMP+1, null, 1, 1, 1, 'Moto em perfeito estado')";
+        await cmd.ExecuteNonQueryAsync(ct);
+        
+        cmd.CommandText = @"INSERT INTO moto (id, placa, chassi, qr_code, data_entrada, previsao_entrega, fotos, zona_id, patio_id, status_id, observacoes)
+VALUES (2, 'EFG4H56', '9BWZZZ377VT004252', 'QR002', SYSTIMESTAMP, null, null, 2, 2, 2, 'Em manutenção preventiva')";
         await cmd.ExecuteNonQueryAsync(ct);
 
         await conn.CloseAsync();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H5oc4ZJ5Ats=",
+  "dgSpecHash": "Ylzv/Iuuo+I=",
   "success": true,
-  "projectFilePath": "A:\\RiderProjects\\MottuVisionV1\\MottuVision.csproj",
+  "projectFilePath": "A:\\RiderProjects\\teste de reparo\\MottuVision.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucca\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\lucca\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",

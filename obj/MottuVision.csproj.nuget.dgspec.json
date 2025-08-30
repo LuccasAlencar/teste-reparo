@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\RiderProjects\\MottuVisionV1\\MottuVision.csproj": {}
+    "A:\\RiderProjects\\teste de reparo\\MottuVision.csproj": {}
   },
   "projects": {
-    "A:\\RiderProjects\\MottuVisionV1\\MottuVision.csproj": {
+    "A:\\RiderProjects\\teste de reparo\\MottuVision.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\RiderProjects\\MottuVisionV1\\MottuVision.csproj",
+        "projectUniqueName": "A:\\RiderProjects\\teste de reparo\\MottuVision.csproj",
         "projectName": "MottuVision",
-        "projectPath": "A:\\RiderProjects\\MottuVisionV1\\MottuVision.csproj",
+        "projectPath": "A:\\RiderProjects\\teste de reparo\\MottuVision.csproj",
         "packagesPath": "C:\\Users\\lucca\\.nuget\\packages\\",
-        "outputPath": "A:\\RiderProjects\\MottuVisionV1\\obj\\",
+        "outputPath": "A:\\RiderProjects\\teste de reparo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucca\\AppData\\Roaming\\NuGet\\NuGet.Config"
