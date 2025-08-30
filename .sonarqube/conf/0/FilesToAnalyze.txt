@@ -14,8 +14,8 @@ A:\RiderProjects\teste de reparo\Dtos\UsuarioCreateDto.cs
 A:\RiderProjects\teste de reparo\Dtos\UsuarioUpdateDto.cs
 A:\RiderProjects\teste de reparo\Dtos\ZonaCreateDto.cs
 A:\RiderProjects\teste de reparo\Dtos\ZonaUpdateDto.cs
-A:\RiderProjects\teste de reparo\Migrations\20250830165506_InitialCreate.cs
-A:\RiderProjects\teste de reparo\Migrations\20250830165506_InitialCreate.Designer.cs
+A:\RiderProjects\teste de reparo\Migrations\20250830171301_InitialCreate.cs
+A:\RiderProjects\teste de reparo\Migrations\20250830171301_InitialCreate.Designer.cs
 A:\RiderProjects\teste de reparo\Migrations\AppDbContextModelSnapshot.cs
 A:\RiderProjects\teste de reparo\Models\Moto.cs
 A:\RiderProjects\teste de reparo\Models\Patio.cs
@@ -30,6 +30,8 @@ A:\RiderProjects\teste de reparo\obj\Debug\net8.0\MottuVision.AssemblyInfo.cs
 A:\RiderProjects\teste de reparo\obj\Debug\net8.0\MottuVision.MvcApplicationPartsAssemblyInfo.cs
 A:\RiderProjects\teste de reparo\appsettings.Development.json
 A:\RiderProjects\teste de reparo\appsettings.json
+A:\RiderProjects\teste de reparo\.env
+A:\RiderProjects\teste de reparo\.gitignore
 A:\RiderProjects\teste de reparo\MottuVision.http
 A:\RiderProjects\teste de reparo\ReadMe.MD
 A:\RiderProjects\teste de reparo\Properties\launchSettings.json

@@ -11,8 +11,8 @@ OA:\RiderProjects\teste de reparo\obj\Debug\net8.0\MottuVision.GlobalUsings.g.cs
 0A:\RiderProjects\teste de reparo\Models\Patio.csutf-88
 /A:\RiderProjects\teste de reparo\Models\Moto.csutf-8S
 HA:\RiderProjects\teste de reparo\Migrations\AppDbContextModelSnapshot.csutf-8_
-TA:\RiderProjects\teste de reparo\Migrations\20250830165506_InitialCreate.Designer.csutf-8T
-KA:\RiderProjects\teste de reparo\Migrations\20250830165506_InitialCreate.csutf-8?
+TA:\RiderProjects\teste de reparo\Migrations\20250830171301_InitialCreate.Designer.csutf-8T
+KA:\RiderProjects\teste de reparo\Migrations\20250830171301_InitialCreate.csutf-8?
 6A:\RiderProjects\teste de reparo\Dtos\ZonaUpdateDto.csutf-8?
 6A:\RiderProjects\teste de reparo\Dtos\ZonaCreateDto.csutf-8B
 9A:\RiderProjects\teste de reparo\Dtos\UsuarioUpdateDto.csutf-8B
@@ -24,8 +24,8 @@ KA:\RiderProjects\teste de reparo\Migrations\20250830165506_InitialCreate.csut
 7A:\RiderProjects\teste de reparo\Dtos\PatioUpdateDto.csutf-8@
 7A:\RiderProjects\teste de reparo\Dtos\PatioCreateDto.csutf-8=
 4A:\RiderProjects\teste de reparo\Dtos\PagedResult.csutf-8?
-6A:\RiderProjects\teste de reparo\Dtos\MotoUpdateDto.csutf-86
--A:\RiderProjects\teste de reparo\Dtos\Link.csutf-8?
-6A:\RiderProjects\teste de reparo\Dtos\MotoCreateDto.csutf-8>
+6A:\RiderProjects\teste de reparo\Dtos\MotoUpdateDto.csutf-8?
+6A:\RiderProjects\teste de reparo\Dtos\MotoCreateDto.csutf-86
+-A:\RiderProjects\teste de reparo\Dtos\Link.csutf-8>
 5A:\RiderProjects\teste de reparo\Data\AppDbContext.csutf-8@
 7A:\RiderProjects\teste de reparo\DatabaseInitializer.csutf-8

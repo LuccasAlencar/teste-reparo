@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MottuVision")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+086ef1285ae1455fe140a34c4f689051120c02f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c7a192698f8a67c5fd9dda0503fbe09adf4b19e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MottuVision")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MottuVision")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
