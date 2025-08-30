@@ -1,0 +1,7 @@
+organization=luccasalencar
+projectKey=LuccasAlencar_MottuVisionV1
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.66685
+dashboardUrl=https://sonarcloud.io/dashboard?id=LuccasAlencar_MottuVisionV1
+ceTaskId=AZj7smaFND9go_QMWrcY
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZj7smaFND9go_QMWrcY

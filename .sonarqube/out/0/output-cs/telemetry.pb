@@ -1,0 +1,1 @@
+GR1A:\RiderProjects\MottuVisionV1\MottuVision.csproj¢net8.0òCSharp12
