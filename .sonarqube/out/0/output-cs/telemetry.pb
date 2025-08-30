@@ -1,1 +1,0 @@
-IR3A:\RiderProjects\teste de reparo\MottuVision.csproj¢net8.0òCSharp12
