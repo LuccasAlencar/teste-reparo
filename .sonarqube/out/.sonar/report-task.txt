@@ -3,5 +3,5 @@ projectKey=LuccasAlencar_teste-reparo
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.66685
 dashboardUrl=https://sonarcloud.io/dashboard?id=LuccasAlencar_teste-reparo
-ceTaskId=AZj7_U42V8ArEFXL33-I
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZj7_U42V8ArEFXL33-I
+ceTaskId=AZj8Ae8Xv0P5N3XFfROE
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZj8Ae8Xv0P5N3XFfROE

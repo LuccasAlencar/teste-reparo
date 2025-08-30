@@ -1162,7 +1162,16 @@
 
  
 
- {
+ h
+6A:\RiderProjects\teste de reparo\Models\StatusGrupo.cs
+
+ 
+
+ 
+
+ 
+
+ '{
 1A:\RiderProjects\teste de reparo\Models\Status.cs
 
  
@@ -1219,16 +1228,7 @@
 
  
 
- h
-6A:\RiderProjects\teste de reparo\Models\StatusGrupo.cs
-
- 
-
- 
-
- 
-
- '¢
+ ¢
 KA:\RiderProjects\teste de reparo\Migrations\20250830171301_InitialCreate.cs
 
 		 &
@@ -1285,12 +1285,14 @@ KA:\RiderProjects\teste de reparo\Migrations\20250830171301_InitialCreate.cs
 
 2 6
 
-D IW
-=A:\RiderProjects\teste de reparo\Dtos\StatusGrupoUpdateDto.cs
+D I_
+9A:\RiderProjects\teste de reparo\Dtos\UsuarioUpdateDto.cs
 
- "
+ 
 
- _
+E L
+
+F K_
 9A:\RiderProjects\teste de reparo\Dtos\UsuarioCreateDto.cs
 
  
@@ -1298,27 +1300,6 @@ KA:\RiderProjects\teste de reparo\Migrations\20250830171301_InitialCreate.cs
 E L
 
 F K^
-8A:\RiderProjects\teste de reparo\Dtos\StatusUpdateDto.cs
-
- 
-
- 
-
-
-
- _
-9A:\RiderProjects\teste de reparo\Dtos\UsuarioUpdateDto.cs
-
- 
-
-E L
-
-F KW
-=A:\RiderProjects\teste de reparo\Dtos\StatusGrupoCreateDto.cs
-
- "
-
- ^
 8A:\RiderProjects\teste de reparo\Dtos\StatusCreateDto.cs
 
  
@@ -1327,7 +1308,26 @@ KA:\RiderProjects\teste de reparo\Migrations\20250830171301_InitialCreate.cs
 
 
 
- Q
+ ^
+8A:\RiderProjects\teste de reparo\Dtos\StatusUpdateDto.cs
+
+ 
+
+ 
+
+
+
+ W
+=A:\RiderProjects\teste de reparo\Dtos\StatusGrupoUpdateDto.cs
+
+ "
+
+ W
+=A:\RiderProjects\teste de reparo\Dtos\StatusGrupoCreateDto.cs
+
+ "
+
+ Q
 7A:\RiderProjects\teste de reparo\Dtos\PatioUpdateDto.cs
 
  

@@ -16,15 +16,15 @@ r
 KA:\RiderProjects\teste de reparo\Migrations\20250830171301_InitialCreate.cs 8j°rÀ	
  !"#$&'()*+,-./013456789:;<=>@ABCDEFGHIJKLMNOPQSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxz{|}ÄÅÇÑÖÜáâäãåçèêëíìïñóòöõúùûü¢£§•ß®™´≠Æ∞±≥¥µ∂∑ÇT!#&(*+,.035789;=@BDEFHJKMPSUWXYZ[\]^_`acefhklnqrtwzÑâèïö§ß™≠∞≥B
 6A:\RiderProjects\teste de reparo\Dtos\ZonaUpdateDto.csrB
-6A:\RiderProjects\teste de reparo\Dtos\ZonaCreateDto.csrJ
-=A:\RiderProjects\teste de reparo\Dtos\StatusGrupoUpdateDto.csrE
+6A:\RiderProjects\teste de reparo\Dtos\ZonaCreateDto.csrE
+9A:\RiderProjects\teste de reparo\Dtos\UsuarioUpdateDto.csrE
 9A:\RiderProjects\teste de reparo\Dtos\UsuarioCreateDto.csrG
-8A:\RiderProjects\teste de reparo\Dtos\StatusUpdateDto.csr		
-E
-9A:\RiderProjects\teste de reparo\Dtos\UsuarioUpdateDto.csrJ
-=A:\RiderProjects\teste de reparo\Dtos\StatusGrupoCreateDto.csrG
 8A:\RiderProjects\teste de reparo\Dtos\StatusCreateDto.csr		
-D
+G
+8A:\RiderProjects\teste de reparo\Dtos\StatusUpdateDto.csr		
+J
+=A:\RiderProjects\teste de reparo\Dtos\StatusGrupoUpdateDto.csrJ
+=A:\RiderProjects\teste de reparo\Dtos\StatusGrupoCreateDto.csrD
 7A:\RiderProjects\teste de reparo\Dtos\PatioUpdateDto.csrD
 7A:\RiderProjects\teste de reparo\Dtos\PatioCreateDto.csrI
 4A:\RiderProjects\teste de reparo\Dtos\PagedResult.cs 

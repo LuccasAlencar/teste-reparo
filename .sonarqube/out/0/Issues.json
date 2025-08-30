@@ -12,6 +12,132 @@
       },
       "results": [
         {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declarar tipos em namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 674,
+                  "startColumn": 21,
+                  "endLine": 674,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declarar tipos em namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 257,
+                  "startColumn": 21,
+                  "endLine": 257,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declarar tipos em namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 432,
+                  "startColumn": 21,
+                  "endLine": 432,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'PatioEndpoints' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 674,
+                  "startColumn": 21,
+                  "endLine": 674,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'ZonaEndpoints' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 257,
+                  "startColumn": 21,
+                  "endLine": 257,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'MotoEndpoints' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 432,
+                  "startColumn": 21,
+                  "endLine": 432,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S1192",
           "level": "warning",
           "message": "Define a constant instead of using this literal 'application/json' 18 times.",
@@ -648,48 +774,6 @@
               "resultFile": {
                 "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 257,
-                  "startColumn": 21,
-                  "endLine": 257,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3903",
-          "level": "warning",
-          "message": "Move 'ZonaEndpoints' into a named namespace.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
-                "region": {
-                  "startLine": 257,
-                  "startColumn": 21,
-                  "endLine": 257,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CA1050",
-          "level": "note",
-          "message": "Declarar tipos em namespaces",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
-                "region": {
                   "startLine": 76,
                   "startColumn": 21,
                   "endLine": 76,
@@ -715,6 +799,111 @@
                   "startColumn": 21,
                   "endLine": 76,
                   "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declarar tipos em namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 779,
+                  "startColumn": 21,
+                  "endLine": 779,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declarar tipos em namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 884,
+                  "startColumn": 21,
+                  "endLine": 884,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'StatusEndpoints' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 884,
+                  "startColumn": 21,
+                  "endLine": 884,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'StatusGrupoEndpoints' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 779,
+                  "startColumn": 21,
+                  "endLine": 779,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declarar tipos em namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 1000,
+                  "startColumn": 21,
+                  "endLine": 1000,
+                  "endColumn": 30
                 }
               }
             }
@@ -1049,195 +1238,6 @@
               "1": null,
               "2": null
             }
-          }
-        },
-        {
-          "ruleId": "CA1050",
-          "level": "note",
-          "message": "Declarar tipos em namespaces",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
-                "region": {
-                  "startLine": 432,
-                  "startColumn": 21,
-                  "endLine": 432,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3903",
-          "level": "warning",
-          "message": "Move 'MotoEndpoints' into a named namespace.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
-                "region": {
-                  "startLine": 432,
-                  "startColumn": 21,
-                  "endLine": 432,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CA1050",
-          "level": "note",
-          "message": "Declarar tipos em namespaces",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
-                "region": {
-                  "startLine": 674,
-                  "startColumn": 21,
-                  "endLine": 674,
-                  "endColumn": 35
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3903",
-          "level": "warning",
-          "message": "Move 'PatioEndpoints' into a named namespace.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
-                "region": {
-                  "startLine": 674,
-                  "startColumn": 21,
-                  "endLine": 674,
-                  "endColumn": 35
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CA1050",
-          "level": "note",
-          "message": "Declarar tipos em namespaces",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
-                "region": {
-                  "startLine": 884,
-                  "startColumn": 21,
-                  "endLine": 884,
-                  "endColumn": 36
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3903",
-          "level": "warning",
-          "message": "Move 'StatusEndpoints' into a named namespace.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
-                "region": {
-                  "startLine": 884,
-                  "startColumn": 21,
-                  "endLine": 884,
-                  "endColumn": 36
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CA1050",
-          "level": "note",
-          "message": "Declarar tipos em namespaces",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
-                "region": {
-                  "startLine": 779,
-                  "startColumn": 21,
-                  "endLine": 779,
-                  "endColumn": 41
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3903",
-          "level": "warning",
-          "message": "Move 'StatusGrupoEndpoints' into a named namespace.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
-                "region": {
-                  "startLine": 779,
-                  "startColumn": 21,
-                  "endLine": 779,
-                  "endColumn": 41
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CA1050",
-          "level": "note",
-          "message": "Declarar tipos em namespaces",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
-                "region": {
-                  "startLine": 1000,
-                  "startColumn": 21,
-                  "endLine": 1000,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
           }
         },
         {
