@@ -1,1 +1,1 @@
-GR1A:\RiderProjects\MottuVisionV1\MottuVision.csproj¢net8.0òCSharp12
+IR3A:\RiderProjects\teste de reparo\MottuVision.csproj¢net8.0òCSharp12

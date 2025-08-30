@@ -1,44 +1,43 @@
-ÿ
-)A:\RiderProjects\MottuVisionV1\Program.cs¨ 8€jI*5_b‡ Ì÷ˆ‹¨Áè’£¦Åß¼ÍĞáîı ±¾Íİíğ‚¥¸rÁ
-	
- !"#$%&(+,.013679:;<=>?ABDEGIJKLNPRTUVWXY`cdefhijklnopqrstuvwxyz{|}~€‚ƒ„…ˆ‰Š‹Œ‘’“”•–—˜™š›œ¡¢£¤¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊÍÎÏĞÒÓÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõøùúûüışÿ€‚ƒ„…†‰Œ‘“”•–—˜™š›œŸ ¡¢£¤¥¦©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÂÃÄÅÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæéêëìíîğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ“”•–—˜™š›œŸ ¡¤§¨©ª«­®°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİàáâãäåæèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’”•–—˜š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÎÑÒÓÔÖ×ÙÚÛÜİŞßâãäåæçèéêëìïğñòóôõö÷øùúûşÿ€‚ƒ„…†‡ˆ‰Š‹‘’“”•–—˜™š›¡¢£¤¦§©ª«¬­®¯²³´µ¶·¸¹º»¼¿ÀÁÂÃÄÅÆÇÈÉÊËÎÏĞÑÒÓÔÕÖ×ØÙÚÛŞßàáâãäåæçèéêëîñòóôö÷øúûüışÿ€ƒ„…†‡ˆ‰Š‹Œ‘’“•–—˜™š›œŸ ¡¢£¦§¨©ª«­®¯°±²³´µ¶¹º»¼½¾¿ÀÁÂÃÄÅÆËxâ‚¶ (+0137<=>?AGIKNPRTVX`cefhijknprs„ˆŠ‹Œ‘œ¡£¤¨©ª¬­®°²³½ÈÉÍÏĞÒÓÕÖ×ØÚÜİçòóôøúûüış€‚ƒ„…‰Œ“•—˜¥©«¬­¯±²½¾ÂÄÅÇÈÉÊÌÎÏÙäåéëìíîğñòóõ÷ø‚“•–—˜™›Ÿ ¤§©ª«­®°²´µÂÆÈÉÊËÍÏĞÛÜàâãäåæêëìîïğòôõÿŠ‹‘’”•–—˜š›œŸ¡¢¬·¸¹½¿ÀÁÂÃÅÇÈÉÊÎÑÓÔÖ×ÙÛİŞâäåæèêëïñòóôõ÷ùúş€‚ƒ„…‡‰Š‘’“”•—™š¡£¤¦§©«­®²´µ¶¸º»¿ÁÂÃÄÅÇÉÊÎĞÑÒÓÔÕ×ÙÚŞàáâãäåçéêîñóôö÷øúüşÿƒ…†‡‰‹Œ’“—˜™›œŸ¡¢¦¨©ª«­®¯°²´µ¹»¼½¾¿ÀÂÄÅË@
--A:\RiderProjects\MottuVisionV1\Models\Zona.cs 8r		
-A
-0A:\RiderProjects\MottuVisionV1\Models\Usuario.cs 8rF
-4A:\RiderProjects\MottuVisionV1\Models\StatusGrupo.cs 8r	C
-/A:\RiderProjects\MottuVisionV1\Models\Status.cs 
+„
++A:\RiderProjects\teste de reparo\Program.cs” *8hj+6@ÜrŒ	
+ !"#$%&'),-./124789:;<>BCDEFHIJKLMNOPQRSTUVWXYZ[\]^`abcdefghijklmnopqstuvwxyz{|}~€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬®¯°±²³´µ¶¸¹º»¼½¾¿ÀÁÃÄÆÇÈÉÊËÍÎÏĞÒÓÔÕÖ×ÙÚÛÜŞßàáãäæçèéêìíîïñòóôõ÷øùúûışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİßàáâãäåæçéêëìíîïğòóõö÷øùúüışÿ‚ƒ„…†ˆ‰Š‹’“•–—˜™›œ ¡¢£¤¦§¨©ª¬­®¯°±²³´µ¶·¸¹º»¼½¾ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–˜™šœŸ ¡¢£¤¦§©ª«¬­®¯±²³µ¶·¸º»¼½¾¿ÀÁÂÃÄÅÆÇÉÊËÌÎÏĞÑÓÔÖ×ØÙÚÛÜİŞßáâãåæçèêëìíïğñòôõ÷øúûış€ƒ„…†ˆ‰‹Œ‘’”•–˜™š›œŸ ¡¢£¥¦§¨©ª¬­®¯°±³´µ¶·¸º»¼½¾¿ÀÂÃÄÅÆÇÈÉÊÌÍÏĞÑÒÓÔÖ×ØÙÛÜİŞßáâãäæçèéëìîïğñóôõöøùûüışÿ‚ƒ„…‡ˆ‰Š‹Œ‘’“•–—˜™šœŸ ¡£¤¥¦§¨©«¬­®¯°±²³µ¶¸¹º»¼½¿ÀÁÂÄÅÆÇÈÊËÌÍÏĞÑÒÔÕ×ØÙÚÜİŞßáâäåæçèêëìíîğñòóôõ÷øùúûüşÿ€‚ƒ…†‡ˆ‰ŠŒ‘’”•–—˜™š›œŸ ¢£¤¥¦§©ª«¬®¯±²³´µ¶¸¹º»½¾¿ÀÂÃÅÆÈÉÊËÌÎÏĞÑÓÔÖ×ØÙÚŞßàáãäåæçèéëíîğñóôõö÷øùúûışÿ‚ƒ„†‡‰Š‹‘’“x:‚±!),.124789:;<>FHIKL]`acdopstvwŒ‘“”©ª«®¯±²³´º»¼½ÀÃÈÉÊÏĞÔÕÖÙÚÛàáãäæçèéîïñòóûış€‘’”• ¡¤¥§¨²½¾ÁÂÄÅÏÚÛÜßàâãäåëìíò÷øùşÿƒ„…ˆ‰Š’“•–—˜ ¡¢ª¬­¯°½ÀÁÃÄÏĞÓÔÖ×áìíğñóôş‰Š‹‘’“”šœŸ ¡¦«¬­®¯±²·¸¼½¾¿ÀÁÂÃÄÅÆÉÊËĞÑÓÔÖ×ØÙÚÛÜİŞßáâçèêëìñòôõ÷øúûış€…†ˆ‰‹Œ‘’”œŸ¡¢¥¦¨©¬­¯°³´¶·º»½¾ÄÅÆÇÌÑÒÓØÙİŞáâãèéëìîïğõöøùûüı…‡ˆŠ‹‘’•–˜™œŸ £¤¦§­®¯°µº»¼ÁÂÆÇÊËÌÑÒÔÕ×ØÙŞßáâäåæîğñóô÷øúûşÿ‚…†ˆ‰Œ–—˜™šŸ¤¥¦«¬®¯³´µ¸¹º¿ÀÂÃÅÆÈÉÊËĞÑÓÔÖ×Øáèëíîğñóÿƒ†‡‰Š‘B
+/A:\RiderProjects\teste de reparo\Models\Zona.cs 8r		
+C
+2A:\RiderProjects\teste de reparo\Models\Usuario.cs 8rE
+1A:\RiderProjects\teste de reparo\Models\Status.cs 
 8
 r
 	
-@
-.A:\RiderProjects\MottuVisionV1\Models\Patio.cs 8r	M
--A:\RiderProjects\MottuVisionV1\Models\Moto.cs 8jr	
-ş
-IA:\RiderProjects\MottuVisionV1\Migrations\20250828185504_InitialCreate.cs 8j¡rË	
- !"#$&'()*+,-./013456789:;<=>@ABCDEFGHIJKLMNOPQSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxz{|}€‚„…†‡‰Š‹Œ‘’“•–—˜š›œŸ¢£¤¥§¨ª«­®°±³´µ¶·‚T!#&(*+,.035789;=@BDEFHJKMPSUWXYZ[\]^_`acefhklnqrtwz„‰•š¤§ª­°³@
-4A:\RiderProjects\MottuVisionV1\Dtos\ZonaUpdateDto.csr@
-4A:\RiderProjects\MottuVisionV1\Dtos\ZonaCreateDto.csrC
-7A:\RiderProjects\MottuVisionV1\Dtos\UsuarioUpdateDto.csrC
-7A:\RiderProjects\MottuVisionV1\Dtos\UsuarioCreateDto.csrE
-6A:\RiderProjects\MottuVisionV1\Dtos\StatusUpdateDto.csr		
-H
-;A:\RiderProjects\MottuVisionV1\Dtos\StatusGrupoUpdateDto.csrH
-;A:\RiderProjects\MottuVisionV1\Dtos\StatusGrupoCreateDto.csrE
-6A:\RiderProjects\MottuVisionV1\Dtos\StatusCreateDto.csr		
 B
-5A:\RiderProjects\MottuVisionV1\Dtos\PatioUpdateDto.csrB
-5A:\RiderProjects\MottuVisionV1\Dtos\PatioCreateDto.csrG
-2A:\RiderProjects\MottuVisionV1\Dtos\PagedResult.cs 
+0A:\RiderProjects\teste de reparo\Models\Patio.cs 8r	O
+/A:\RiderProjects\teste de reparo\Models\Moto.cs 8jr	
+H
+6A:\RiderProjects\teste de reparo\Models\StatusGrupo.cs 8r	€
+KA:\RiderProjects\teste de reparo\Migrations\20250830165506_InitialCreate.cs 8j¡rË	
+ !"#$&'()*+,-./013456789:;<=>@ABCDEFGHIJKLMNOPQSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxz{|}€‚„…†‡‰Š‹Œ‘’“•–—˜š›œŸ¢£¤¥§¨ª«­®°±³´µ¶·‚T!#&(*+,.035789;=@BDEFHJKMPSUWXYZ[\]^_`acefhklnqrtwz„‰•š¤§ª­°³B
+6A:\RiderProjects\teste de reparo\Dtos\ZonaUpdateDto.csrB
+6A:\RiderProjects\teste de reparo\Dtos\ZonaCreateDto.csrE
+9A:\RiderProjects\teste de reparo\Dtos\UsuarioUpdateDto.csrE
+9A:\RiderProjects\teste de reparo\Dtos\UsuarioCreateDto.csrG
+8A:\RiderProjects\teste de reparo\Dtos\StatusUpdateDto.csr		
+J
+=A:\RiderProjects\teste de reparo\Dtos\StatusGrupoCreateDto.csrJ
+=A:\RiderProjects\teste de reparo\Dtos\StatusGrupoUpdateDto.csrG
+8A:\RiderProjects\teste de reparo\Dtos\StatusCreateDto.csr		
+D
+7A:\RiderProjects\teste de reparo\Dtos\PatioUpdateDto.csrD
+7A:\RiderProjects\teste de reparo\Dtos\PatioCreateDto.csrI
+4A:\RiderProjects\teste de reparo\Dtos\PagedResult.cs 
 8
 r	
-H
-4A:\RiderProjects\MottuVisionV1\Dtos\MotoUpdateDto.csr	
-H
-4A:\RiderProjects\MottuVisionV1\Dtos\MotoCreateDto.csr	
-3
-+A:\RiderProjects\MottuVisionV1\Dtos\Link.csrÒ
-3A:\RiderProjects\MottuVisionV1\Data\AppDbContext.cs1 8j&/8FrO	
+J
+6A:\RiderProjects\teste de reparo\Dtos\MotoUpdateDto.csr	
+5
+-A:\RiderProjects\teste de reparo\Dtos\Link.csrJ
+6A:\RiderProjects\teste de reparo\Dtos\MotoCreateDto.csr	
+Ô
+5A:\RiderProjects\teste de reparo\Data\AppDbContext.cs1 8j&/8FrO	
  !"#$'()*+,-01234569:;<=>?@ABCDGHIJKLMNOPQRSTUVWYZ[\]^‚9	
- !"#')*+,023459;<=>?@ABGIJKLMNOPQRSTUVWYZ[¯
-5A:\RiderProjects\MottuVisionV1\DatabaseInitializer.cs+ 8j@„r¬	
- !"$%&'()+,-./02345679:;<=>ABCDEFGHIKLMNOPQRTUVWXYZ\]^_`abdefghijklnopqrstuvwxyz{|}~€‚…†‡ˆŠ‹Œ‘’”•–—˜™šœŸ ¡£¤¥x‚6"$)+0279>AIKRTZ\bdln‚…ˆŠ’”šœ¡£
+ !"#')*+,023459;<=>?@ABGIJKLMNOPQRSTUVWYZ[ã
+7A:\RiderProjects\teste de reparo\DatabaseInitializer.cs; 8j@„†”›¢¬r²	
+ !"$%&'()+,-./02345679:;<=>ABCDEFGHIKLMNOPQRTUVWXYZ\]^_`abdefghijklnopqrstuvwxyz{|}~€‚‡ˆŠ‹‘’•–˜™œŸ £¤¦§©ª­®¯±²³µ¶·x‚V"$)+0279>AIKRTZ\bdln‚‡ˆŠ‹‘’•–˜™œŸ £¤¦§©ª­¯±³µ

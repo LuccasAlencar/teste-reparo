@@ -1,31 +1,31 @@
-i
-^A:\RiderProjects\MottuVisionV1\obj\Debug\net8.0\MottuVision.MvcApplicationPartsAssemblyInfo.csutf-8V
-KA:\RiderProjects\MottuVisionV1\obj\Debug\net8.0\MottuVision.AssemblyInfo.csutf-8i
-^A:\RiderProjects\MottuVisionV1\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8X
-MA:\RiderProjects\MottuVisionV1\obj\Debug\net8.0\MottuVision.GlobalUsings.g.csutf-82
-)A:\RiderProjects\MottuVisionV1\Program.csutf-86
--A:\RiderProjects\MottuVisionV1\Models\Zona.csutf-89
-0A:\RiderProjects\MottuVisionV1\Models\Usuario.csutf-8=
-4A:\RiderProjects\MottuVisionV1\Models\StatusGrupo.csutf-88
-/A:\RiderProjects\MottuVisionV1\Models\Status.csutf-87
-.A:\RiderProjects\MottuVisionV1\Models\Patio.csutf-86
--A:\RiderProjects\MottuVisionV1\Models\Moto.csutf-8Q
-FA:\RiderProjects\MottuVisionV1\Migrations\AppDbContextModelSnapshot.csutf-8]
-RA:\RiderProjects\MottuVisionV1\Migrations\20250828185504_InitialCreate.Designer.csutf-8R
-IA:\RiderProjects\MottuVisionV1\Migrations\20250828185504_InitialCreate.csutf-8=
-4A:\RiderProjects\MottuVisionV1\Dtos\ZonaUpdateDto.csutf-8=
-4A:\RiderProjects\MottuVisionV1\Dtos\ZonaCreateDto.csutf-8@
-7A:\RiderProjects\MottuVisionV1\Dtos\UsuarioUpdateDto.csutf-8@
-7A:\RiderProjects\MottuVisionV1\Dtos\UsuarioCreateDto.csutf-8?
-6A:\RiderProjects\MottuVisionV1\Dtos\StatusUpdateDto.csutf-8D
-;A:\RiderProjects\MottuVisionV1\Dtos\StatusGrupoUpdateDto.csutf-8D
-;A:\RiderProjects\MottuVisionV1\Dtos\StatusGrupoCreateDto.csutf-8?
-6A:\RiderProjects\MottuVisionV1\Dtos\StatusCreateDto.csutf-8>
-5A:\RiderProjects\MottuVisionV1\Dtos\PatioUpdateDto.csutf-8>
-5A:\RiderProjects\MottuVisionV1\Dtos\PatioCreateDto.csutf-8;
-2A:\RiderProjects\MottuVisionV1\Dtos\PagedResult.csutf-8=
-4A:\RiderProjects\MottuVisionV1\Dtos\MotoUpdateDto.csutf-8=
-4A:\RiderProjects\MottuVisionV1\Dtos\MotoCreateDto.csutf-84
-+A:\RiderProjects\MottuVisionV1\Dtos\Link.csutf-8<
-3A:\RiderProjects\MottuVisionV1\Data\AppDbContext.csutf-8>
-5A:\RiderProjects\MottuVisionV1\DatabaseInitializer.csutf-8
+k
+`A:\RiderProjects\teste de reparo\obj\Debug\net8.0\MottuVision.MvcApplicationPartsAssemblyInfo.csutf-8X
+MA:\RiderProjects\teste de reparo\obj\Debug\net8.0\MottuVision.AssemblyInfo.csutf-8k
+`A:\RiderProjects\teste de reparo\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8Z
+OA:\RiderProjects\teste de reparo\obj\Debug\net8.0\MottuVision.GlobalUsings.g.csutf-84
++A:\RiderProjects\teste de reparo\Program.csutf-88
+/A:\RiderProjects\teste de reparo\Models\Zona.csutf-8;
+2A:\RiderProjects\teste de reparo\Models\Usuario.csutf-8?
+6A:\RiderProjects\teste de reparo\Models\StatusGrupo.csutf-8:
+1A:\RiderProjects\teste de reparo\Models\Status.csutf-89
+0A:\RiderProjects\teste de reparo\Models\Patio.csutf-88
+/A:\RiderProjects\teste de reparo\Models\Moto.csutf-8S
+HA:\RiderProjects\teste de reparo\Migrations\AppDbContextModelSnapshot.csutf-8_
+TA:\RiderProjects\teste de reparo\Migrations\20250830165506_InitialCreate.Designer.csutf-8T
+KA:\RiderProjects\teste de reparo\Migrations\20250830165506_InitialCreate.csutf-8?
+6A:\RiderProjects\teste de reparo\Dtos\ZonaUpdateDto.csutf-8?
+6A:\RiderProjects\teste de reparo\Dtos\ZonaCreateDto.csutf-8B
+9A:\RiderProjects\teste de reparo\Dtos\UsuarioUpdateDto.csutf-8B
+9A:\RiderProjects\teste de reparo\Dtos\UsuarioCreateDto.csutf-8A
+8A:\RiderProjects\teste de reparo\Dtos\StatusUpdateDto.csutf-8F
+=A:\RiderProjects\teste de reparo\Dtos\StatusGrupoUpdateDto.csutf-8F
+=A:\RiderProjects\teste de reparo\Dtos\StatusGrupoCreateDto.csutf-8A
+8A:\RiderProjects\teste de reparo\Dtos\StatusCreateDto.csutf-8@
+7A:\RiderProjects\teste de reparo\Dtos\PatioUpdateDto.csutf-8@
+7A:\RiderProjects\teste de reparo\Dtos\PatioCreateDto.csutf-8=
+4A:\RiderProjects\teste de reparo\Dtos\PagedResult.csutf-8?
+6A:\RiderProjects\teste de reparo\Dtos\MotoUpdateDto.csutf-86
+-A:\RiderProjects\teste de reparo\Dtos\Link.csutf-8?
+6A:\RiderProjects\teste de reparo\Dtos\MotoCreateDto.csutf-8>
+5A:\RiderProjects\teste de reparo\Data\AppDbContext.csutf-8@
+7A:\RiderProjects\teste de reparo\DatabaseInitializer.csutf-8

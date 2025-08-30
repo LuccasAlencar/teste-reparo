@@ -3,16 +3,16 @@
   <ProjectName>MottuVision</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>0c7cf420-4cbe-471c-953f-79c18fa8e65b</ProjectGuid>
-  <FullPath>A:\RiderProjects\MottuVisionV1\MottuVision.csproj</FullPath>
+  <ProjectGuid>09b166db-0bce-434a-a46a-995faaf6c323</ProjectGuid>
+  <FullPath>A:\RiderProjects\teste de reparo\MottuVision.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
-    <AnalysisResult Id="FilesToAnalyze" Location="A:\RiderProjects\MottuVisionV1\.sonarqube\conf\0\FilesToAnalyze.txt" />
+    <AnalysisResult Id="FilesToAnalyze" Location="A:\RiderProjects\teste de reparo\.sonarqube\conf\0\FilesToAnalyze.txt" />
   </AnalysisResults>
   <AnalysisSettings>
-    <Property Name="sonar.cs.roslyn.reportFilePaths">A:\RiderProjects\MottuVisionV1\.sonarqube\out\0\Issues.json</Property>
-    <Property Name="sonar.cs.analyzer.projectOutPaths">A:\RiderProjects\MottuVisionV1\.sonarqube\out\0</Property>
-    <Property Name="sonar.cs.scanner.telemetry">A:\RiderProjects\MottuVisionV1\.sonarqube\out\0\Telemetry.json</Property>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">A:\RiderProjects\teste de reparo\.sonarqube\out\0\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">A:\RiderProjects\teste de reparo\.sonarqube\out\0</Property>
+    <Property Name="sonar.cs.scanner.telemetry">A:\RiderProjects\teste de reparo\.sonarqube\out\0\Telemetry.json</Property>
   </AnalysisSettings>
   <Configuration>Debug</Configuration>
   <Platform>AnyCPU</Platform>

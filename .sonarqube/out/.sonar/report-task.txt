@@ -1,7 +1,7 @@
 organization=luccasalencar
-projectKey=LuccasAlencar_MottuVisionV1
+projectKey=LuccasAlencar_teste-reparo
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.66685
-dashboardUrl=https://sonarcloud.io/dashboard?id=LuccasAlencar_MottuVisionV1
-ceTaskId=AZj7smaFND9go_QMWrcY
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZj7smaFND9go_QMWrcY
+dashboardUrl=https://sonarcloud.io/dashboard?id=LuccasAlencar_teste-reparo
+ceTaskId=AZj76zPPHA8MxMgIqB4O
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZj76zPPHA8MxMgIqB4O

@@ -1,29 +1,27 @@
-á
-0MottuVision.Migrations.AppDbContextModelSnapshot:Microsoft.EntityFrameworkCore.Infrastructure.ModelSnapshotobject°
-6BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)gMottuVision.Migrations.AppDbContextModelSnapshot.BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)k
-AppDbContextModelSnapshot()LMottuVision.Migrations.AppDbContextModelSnapshot.AppDbContextModelSnapshot()1
+1
 Programobject
-	Program()Program.Program()Â
-MottuVision.Models.Patioobject+
-Patio() MottuVision.Models.Patio.Patio())
-Id.getMottuVision.Models.Patio.Id.get)
-Id.setMottuVision.Models.Patio.Id.set-
-Nome.get!MottuVision.Models.Patio.Nome.get-
-Nome.set!MottuVision.Models.Patio.Nome.set/
-	Motos.get"MottuVision.Models.Patio.Motos.get/
-	Motos.set"MottuVision.Models.Patio.Motos.setÔ
-MottuVision.Models.Statusobject.
-Status()"MottuVision.Models.Status.Status()*
-Id.get MottuVision.Models.Status.Id.get*
-Id.set MottuVision.Models.Status.Id.set.
-Nome.get"MottuVision.Models.Status.Nome.get.
-Nome.set"MottuVision.Models.Status.Nome.set@
-StatusGrupoId.get+MottuVision.Models.Status.StatusGrupoId.get@
-StatusGrupoId.set+MottuVision.Models.Status.StatusGrupoId.set<
-StatusGrupo.get)MottuVision.Models.Status.StatusGrupo.get<
-StatusGrupo.set)MottuVision.Models.Status.StatusGrupo.set0
-	Motos.get#MottuVision.Models.Status.Motos.get0
-	Motos.set#MottuVision.Models.Status.Motos.set˜
+	Program()Program.Program()Å	
+MottuVision.Dtos.LinkobjectSystem.IEquatable<T>R
+Link(string, string, string)2MottuVision.Dtos.Link.Link(string, string, string).
+
+ToString() MottuVision.Dtos.Link.ToString()h
+'PrintMembers(System.Text.StringBuilder)=MottuVision.Dtos.Link.PrintMembers(System.Text.StringBuilder)4
+GetHashCode()#MottuVision.Dtos.Link.GetHashCode()8
+Equals(object?)%MottuVision.Dtos.Link.Equals(object?)V
+Equals(MottuVision.Dtos.Link?)4MottuVision.Dtos.Link.Equals(MottuVision.Dtos.Link?).
+
+<Clone>$() MottuVision.Dtos.Link.<Clone>$()P
+Link(MottuVision.Dtos.Link)1MottuVision.Dtos.Link.Link(MottuVision.Dtos.Link)x
+/Deconstruct(out string, out string, out string)EMottuVision.Dtos.Link.Deconstruct(out string, out string, out string)B
+EqualityContract.get*MottuVision.Dtos.Link.EqualityContract.getB
+EqualityContract.set*MottuVision.Dtos.Link.EqualityContract.set(
+Rel.getMottuVision.Dtos.Link.Rel.get*
+Rel.initMottuVision.Dtos.Link.Rel.init*
+Href.getMottuVision.Dtos.Link.Href.get,
+	Href.initMottuVision.Dtos.Link.Href.init.
+
+Method.get MottuVision.Dtos.Link.Method.get0
+Method.init!MottuVision.Dtos.Link.Method.init˜
 MottuVision.Models.Motoobject(
 Moto()MottuVision.Models.Moto.Moto()(
 Id.getMottuVision.Models.Moto.Id.get(
@@ -61,146 +59,7 @@ ZonaId.set"MottuVision.Models.Moto.ZonaId.set2
 
 Status.get"MottuVision.Models.Moto.Status.get0
 
-Status.set"MottuVision.Models.Moto.Status.setü
-$MottuVision.Migrations.InitialCreate2Microsoft.EntityFrameworkCore.Migrations.Migrationobject£
-=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)bMottuVision.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)ß
-?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)dMottuVision.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)°
-<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)aMottuVision.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)G
-InitialCreate()4MottuVision.Migrations.InitialCreate.InitialCreate()≠
-MottuVision.Models.StatusGrupoobject=
-StatusGrupo(),MottuVision.Models.StatusGrupo.StatusGrupo()/
-Id.get%MottuVision.Models.StatusGrupo.Id.get/
-Id.set%MottuVision.Models.StatusGrupo.Id.set3
-Nome.get'MottuVision.Models.StatusGrupo.Nome.get3
-Nome.set'MottuVision.Models.StatusGrupo.Nome.set;
-Statuses.get+MottuVision.Models.StatusGrupo.Statuses.get;
-Statuses.set+MottuVision.Models.StatusGrupo.Statuses.set•
-MottuVision.Models.Usuarioobject1
-	Usuario()$MottuVision.Models.Usuario.Usuario()+
-Id.get!MottuVision.Models.Usuario.Id.get+
-Id.set!MottuVision.Models.Usuario.Id.set=
-NomeUsuario.get*MottuVision.Models.Usuario.NomeUsuario.get=
-NomeUsuario.set*MottuVision.Models.Usuario.NomeUsuario.set9
-SenhaHash.get(MottuVision.Models.Usuario.SenhaHash.get9
-SenhaHash.set(MottuVision.Models.Usuario.SenhaHash.setÅ	
-MottuVision.Dtos.LinkobjectSystem.IEquatable<T>R
-Link(string, string, string)2MottuVision.Dtos.Link.Link(string, string, string).
-
-ToString() MottuVision.Dtos.Link.ToString()h
-'PrintMembers(System.Text.StringBuilder)=MottuVision.Dtos.Link.PrintMembers(System.Text.StringBuilder)4
-GetHashCode()#MottuVision.Dtos.Link.GetHashCode()8
-Equals(object?)%MottuVision.Dtos.Link.Equals(object?)V
-Equals(MottuVision.Dtos.Link?)4MottuVision.Dtos.Link.Equals(MottuVision.Dtos.Link?).
-
-<Clone>$() MottuVision.Dtos.Link.<Clone>$()P
-Link(MottuVision.Dtos.Link)1MottuVision.Dtos.Link.Link(MottuVision.Dtos.Link)x
-/Deconstruct(out string, out string, out string)EMottuVision.Dtos.Link.Deconstruct(out string, out string, out string)B
-EqualityContract.get*MottuVision.Dtos.Link.EqualityContract.getB
-EqualityContract.set*MottuVision.Dtos.Link.EqualityContract.set(
-Rel.getMottuVision.Dtos.Link.Rel.get*
-Rel.initMottuVision.Dtos.Link.Rel.init*
-Href.getMottuVision.Dtos.Link.Href.get,
-	Href.initMottuVision.Dtos.Link.Href.init.
-
-Method.get MottuVision.Dtos.Link.Method.get0
-Method.init!MottuVision.Dtos.Link.Method.init¸
-MottuVision.Dtos.MotoUpdateDtoobjectSystem.IEquatable<T>ê
-vMotoUpdateDto(string, string, string?, System.DateTime, System.DateTime?, string?, decimal, decimal, decimal, string?)ïMottuVision.Dtos.MotoUpdateDto.MotoUpdateDto(string, string, string?, System.DateTime, System.DateTime?, string?, decimal, decimal, decimal, string?)7
-
-ToString())MottuVision.Dtos.MotoUpdateDto.ToString()q
-'PrintMembers(System.Text.StringBuilder)FMottuVision.Dtos.MotoUpdateDto.PrintMembers(System.Text.StringBuilder)=
-GetHashCode(),MottuVision.Dtos.MotoUpdateDto.GetHashCode()A
-Equals(object?).MottuVision.Dtos.MotoUpdateDto.Equals(object?)q
-'Equals(MottuVision.Dtos.MotoUpdateDto?)FMottuVision.Dtos.MotoUpdateDto.Equals(MottuVision.Dtos.MotoUpdateDto?)7
-
-<Clone>$())MottuVision.Dtos.MotoUpdateDto.<Clone>$()}
--MotoUpdateDto(MottuVision.Dtos.MotoUpdateDto)LMottuVision.Dtos.MotoUpdateDto.MotoUpdateDto(MottuVision.Dtos.MotoUpdateDto)›
-úDeconstruct(out string, out string, out string?, out System.DateTime, out System.DateTime?, out string?, out decimal, out decimal, out decimal, out string?)ªMottuVision.Dtos.MotoUpdateDto.Deconstruct(out string, out string, out string?, out System.DateTime, out System.DateTime?, out string?, out decimal, out decimal, out decimal, out string?)K
-EqualityContract.get3MottuVision.Dtos.MotoUpdateDto.EqualityContract.getK
-EqualityContract.set3MottuVision.Dtos.MotoUpdateDto.EqualityContract.set5
-	Placa.get(MottuVision.Dtos.MotoUpdateDto.Placa.get7
-
-Placa.init)MottuVision.Dtos.MotoUpdateDto.Placa.init7
-
-Chassi.get)MottuVision.Dtos.MotoUpdateDto.Chassi.get9
-Chassi.init*MottuVision.Dtos.MotoUpdateDto.Chassi.init7
-
-QrCode.get)MottuVision.Dtos.MotoUpdateDto.QrCode.get9
-QrCode.init*MottuVision.Dtos.MotoUpdateDto.QrCode.initA
-DataEntrada.get.MottuVision.Dtos.MotoUpdateDto.DataEntrada.getC
-DataEntrada.init/MottuVision.Dtos.MotoUpdateDto.DataEntrada.initI
-PrevisaoEntrega.get2MottuVision.Dtos.MotoUpdateDto.PrevisaoEntrega.getK
-PrevisaoEntrega.init3MottuVision.Dtos.MotoUpdateDto.PrevisaoEntrega.init5
-	Fotos.get(MottuVision.Dtos.MotoUpdateDto.Fotos.get7
-
-Fotos.init)MottuVision.Dtos.MotoUpdateDto.Fotos.init7
-
-ZonaId.get)MottuVision.Dtos.MotoUpdateDto.ZonaId.get9
-ZonaId.init*MottuVision.Dtos.MotoUpdateDto.ZonaId.init9
-PatioId.get*MottuVision.Dtos.MotoUpdateDto.PatioId.get;
-PatioId.init+MottuVision.Dtos.MotoUpdateDto.PatioId.init;
-StatusId.get+MottuVision.Dtos.MotoUpdateDto.StatusId.get=
-StatusId.init,MottuVision.Dtos.MotoUpdateDto.StatusId.initA
-Observacoes.get.MottuVision.Dtos.MotoUpdateDto.Observacoes.getC
-Observacoes.init/MottuVision.Dtos.MotoUpdateDto.Observacoes.initª
-MottuVision.Models.Zonaobject(
-Zona()MottuVision.Models.Zona.Zona()(
-Id.getMottuVision.Models.Zona.Id.get(
-Id.setMottuVision.Models.Zona.Id.set,
-Nome.get MottuVision.Models.Zona.Nome.get,
-Nome.set MottuVision.Models.Zona.Nome.set.
-	Letra.get!MottuVision.Models.Zona.Letra.get.
-	Letra.set!MottuVision.Models.Zona.Letra.set.
-	Motos.get!MottuVision.Models.Zona.Motos.get.
-	Motos.set!MottuVision.Models.Zona.Motos.set÷
-MottuVision.Dtos.PatioCreateDtoobjectSystem.IEquatable<T>P
-PatioCreateDto(string)6MottuVision.Dtos.PatioCreateDto.PatioCreateDto(string)8
-
-ToString()*MottuVision.Dtos.PatioCreateDto.ToString()r
-'PrintMembers(System.Text.StringBuilder)GMottuVision.Dtos.PatioCreateDto.PrintMembers(System.Text.StringBuilder)>
-GetHashCode()-MottuVision.Dtos.PatioCreateDto.GetHashCode()B
-Equals(object?)/MottuVision.Dtos.PatioCreateDto.Equals(object?)t
-(Equals(MottuVision.Dtos.PatioCreateDto?)HMottuVision.Dtos.PatioCreateDto.Equals(MottuVision.Dtos.PatioCreateDto?)8
-
-<Clone>$()*MottuVision.Dtos.PatioCreateDto.<Clone>$()Ç
-/PatioCreateDto(MottuVision.Dtos.PatioCreateDto)OMottuVision.Dtos.PatioCreateDto.PatioCreateDto(MottuVision.Dtos.PatioCreateDto)R
-Deconstruct(out string)7MottuVision.Dtos.PatioCreateDto.Deconstruct(out string)L
-EqualityContract.get4MottuVision.Dtos.PatioCreateDto.EqualityContract.getL
-EqualityContract.set4MottuVision.Dtos.PatioCreateDto.EqualityContract.set4
-Nome.get(MottuVision.Dtos.PatioCreateDto.Nome.get6
-	Nome.init)MottuVision.Dtos.PatioCreateDto.Nome.init÷
-MottuVision.Dtos.PatioUpdateDtoobjectSystem.IEquatable<T>P
-PatioUpdateDto(string)6MottuVision.Dtos.PatioUpdateDto.PatioUpdateDto(string)8
-
-ToString()*MottuVision.Dtos.PatioUpdateDto.ToString()r
-'PrintMembers(System.Text.StringBuilder)GMottuVision.Dtos.PatioUpdateDto.PrintMembers(System.Text.StringBuilder)>
-GetHashCode()-MottuVision.Dtos.PatioUpdateDto.GetHashCode()B
-Equals(object?)/MottuVision.Dtos.PatioUpdateDto.Equals(object?)t
-(Equals(MottuVision.Dtos.PatioUpdateDto?)HMottuVision.Dtos.PatioUpdateDto.Equals(MottuVision.Dtos.PatioUpdateDto?)8
-
-<Clone>$()*MottuVision.Dtos.PatioUpdateDto.<Clone>$()Ç
-/PatioUpdateDto(MottuVision.Dtos.PatioUpdateDto)OMottuVision.Dtos.PatioUpdateDto.PatioUpdateDto(MottuVision.Dtos.PatioUpdateDto)R
-Deconstruct(out string)7MottuVision.Dtos.PatioUpdateDto.Deconstruct(out string)L
-EqualityContract.get4MottuVision.Dtos.PatioUpdateDto.EqualityContract.getL
-EqualityContract.set4MottuVision.Dtos.PatioUpdateDto.EqualityContract.set4
-Nome.get(MottuVision.Dtos.PatioUpdateDto.Nome.get6
-	Nome.init)MottuVision.Dtos.PatioUpdateDto.Nome.init€	
-%MottuVision.Dtos.StatusGrupoCreateDtoobjectSystem.IEquatable<T>b
-StatusGrupoCreateDto(string)BMottuVision.Dtos.StatusGrupoCreateDto.StatusGrupoCreateDto(string)>
-
-ToString()0MottuVision.Dtos.StatusGrupoCreateDto.ToString()x
-'PrintMembers(System.Text.StringBuilder)MMottuVision.Dtos.StatusGrupoCreateDto.PrintMembers(System.Text.StringBuilder)D
-GetHashCode()3MottuVision.Dtos.StatusGrupoCreateDto.GetHashCode()H
-Equals(object?)5MottuVision.Dtos.StatusGrupoCreateDto.Equals(object?)Ü
-.Equals(MottuVision.Dtos.StatusGrupoCreateDto?)TMottuVision.Dtos.StatusGrupoCreateDto.Equals(MottuVision.Dtos.StatusGrupoCreateDto?)>
-
-<Clone>$()0MottuVision.Dtos.StatusGrupoCreateDto.<Clone>$()†
-;StatusGrupoCreateDto(MottuVision.Dtos.StatusGrupoCreateDto)aMottuVision.Dtos.StatusGrupoCreateDto.StatusGrupoCreateDto(MottuVision.Dtos.StatusGrupoCreateDto)X
-Deconstruct(out string)=MottuVision.Dtos.StatusGrupoCreateDto.Deconstruct(out string)R
-EqualityContract.get:MottuVision.Dtos.StatusGrupoCreateDto.EqualityContract.getR
-EqualityContract.set:MottuVision.Dtos.StatusGrupoCreateDto.EqualityContract.set:
-Nome.get.MottuVision.Dtos.StatusGrupoCreateDto.Nome.get<
-	Nome.init/MottuVision.Dtos.StatusGrupoCreateDto.Nome.init¸
+Status.set"MottuVision.Models.Moto.Status.set¸
 MottuVision.Dtos.MotoCreateDtoobjectSystem.IEquatable<T>ê
 vMotoCreateDto(string, string, string?, System.DateTime, System.DateTime?, string?, decimal, decimal, decimal, string?)ïMottuVision.Dtos.MotoCreateDto.MotoCreateDto(string, string, string?, System.DateTime, System.DateTime?, string?, decimal, decimal, decimal, string?)7
 
@@ -239,7 +98,163 @@ ZonaId.get)MottuVision.Dtos.MotoCreateDto.ZonaId.get9
 StatusId.get+MottuVision.Dtos.MotoCreateDto.StatusId.get=
 StatusId.init,MottuVision.Dtos.MotoCreateDto.StatusId.initA
 Observacoes.get.MottuVision.Dtos.MotoCreateDto.Observacoes.getC
-Observacoes.init/MottuVision.Dtos.MotoCreateDto.Observacoes.init¨
+Observacoes.init/MottuVision.Dtos.MotoCreateDto.Observacoes.initü
+$MottuVision.Migrations.InitialCreate2Microsoft.EntityFrameworkCore.Migrations.Migrationobject£
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)bMottuVision.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)ß
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)dMottuVision.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)°
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)aMottuVision.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)G
+InitialCreate()4MottuVision.Migrations.InitialCreate.InitialCreate()Â
+MottuVision.Models.Patioobject+
+Patio() MottuVision.Models.Patio.Patio())
+Id.getMottuVision.Models.Patio.Id.get)
+Id.setMottuVision.Models.Patio.Id.set-
+Nome.get!MottuVision.Models.Patio.Nome.get-
+Nome.set!MottuVision.Models.Patio.Nome.set/
+	Motos.get"MottuVision.Models.Patio.Motos.get/
+	Motos.set"MottuVision.Models.Patio.Motos.setÔ
+MottuVision.Models.Statusobject.
+Status()"MottuVision.Models.Status.Status()*
+Id.get MottuVision.Models.Status.Id.get*
+Id.set MottuVision.Models.Status.Id.set.
+Nome.get"MottuVision.Models.Status.Nome.get.
+Nome.set"MottuVision.Models.Status.Nome.set@
+StatusGrupoId.get+MottuVision.Models.Status.StatusGrupoId.get@
+StatusGrupoId.set+MottuVision.Models.Status.StatusGrupoId.set<
+StatusGrupo.get)MottuVision.Models.Status.StatusGrupo.get<
+StatusGrupo.set)MottuVision.Models.Status.StatusGrupo.set0
+	Motos.get#MottuVision.Models.Status.Motos.get0
+	Motos.set#MottuVision.Models.Status.Motos.setá
+0MottuVision.Migrations.AppDbContextModelSnapshot:Microsoft.EntityFrameworkCore.Infrastructure.ModelSnapshotobject°
+6BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)gMottuVision.Migrations.AppDbContextModelSnapshot.BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)k
+AppDbContextModelSnapshot()LMottuVision.Migrations.AppDbContextModelSnapshot.AppDbContextModelSnapshot()•
+MottuVision.Models.Usuarioobject1
+	Usuario()$MottuVision.Models.Usuario.Usuario()+
+Id.get!MottuVision.Models.Usuario.Id.get+
+Id.set!MottuVision.Models.Usuario.Id.set=
+NomeUsuario.get*MottuVision.Models.Usuario.NomeUsuario.get=
+NomeUsuario.set*MottuVision.Models.Usuario.NomeUsuario.set9
+SenhaHash.get(MottuVision.Models.Usuario.SenhaHash.get9
+SenhaHash.set(MottuVision.Models.Usuario.SenhaHash.set≠
+MottuVision.Models.StatusGrupoobject=
+StatusGrupo(),MottuVision.Models.StatusGrupo.StatusGrupo()/
+Id.get%MottuVision.Models.StatusGrupo.Id.get/
+Id.set%MottuVision.Models.StatusGrupo.Id.set3
+Nome.get'MottuVision.Models.StatusGrupo.Nome.get3
+Nome.set'MottuVision.Models.StatusGrupo.Nome.set;
+Statuses.get+MottuVision.Models.StatusGrupo.Statuses.get;
+Statuses.set+MottuVision.Models.StatusGrupo.Statuses.setª
+MottuVision.Models.Zonaobject(
+Zona()MottuVision.Models.Zona.Zona()(
+Id.getMottuVision.Models.Zona.Id.get(
+Id.setMottuVision.Models.Zona.Id.set,
+Nome.get MottuVision.Models.Zona.Nome.get,
+Nome.set MottuVision.Models.Zona.Nome.set.
+	Letra.get!MottuVision.Models.Zona.Letra.get.
+	Letra.set!MottuVision.Models.Zona.Letra.set.
+	Motos.get!MottuVision.Models.Zona.Motos.get.
+	Motos.set!MottuVision.Models.Zona.Motos.set÷
+MottuVision.Dtos.PatioCreateDtoobjectSystem.IEquatable<T>P
+PatioCreateDto(string)6MottuVision.Dtos.PatioCreateDto.PatioCreateDto(string)8
+
+ToString()*MottuVision.Dtos.PatioCreateDto.ToString()r
+'PrintMembers(System.Text.StringBuilder)GMottuVision.Dtos.PatioCreateDto.PrintMembers(System.Text.StringBuilder)>
+GetHashCode()-MottuVision.Dtos.PatioCreateDto.GetHashCode()B
+Equals(object?)/MottuVision.Dtos.PatioCreateDto.Equals(object?)t
+(Equals(MottuVision.Dtos.PatioCreateDto?)HMottuVision.Dtos.PatioCreateDto.Equals(MottuVision.Dtos.PatioCreateDto?)8
+
+<Clone>$()*MottuVision.Dtos.PatioCreateDto.<Clone>$()Ç
+/PatioCreateDto(MottuVision.Dtos.PatioCreateDto)OMottuVision.Dtos.PatioCreateDto.PatioCreateDto(MottuVision.Dtos.PatioCreateDto)R
+Deconstruct(out string)7MottuVision.Dtos.PatioCreateDto.Deconstruct(out string)L
+EqualityContract.get4MottuVision.Dtos.PatioCreateDto.EqualityContract.getL
+EqualityContract.set4MottuVision.Dtos.PatioCreateDto.EqualityContract.set4
+Nome.get(MottuVision.Dtos.PatioCreateDto.Nome.get6
+	Nome.init)MottuVision.Dtos.PatioCreateDto.Nome.init¸
+MottuVision.Dtos.MotoUpdateDtoobjectSystem.IEquatable<T>ê
+vMotoUpdateDto(string, string, string?, System.DateTime, System.DateTime?, string?, decimal, decimal, decimal, string?)ïMottuVision.Dtos.MotoUpdateDto.MotoUpdateDto(string, string, string?, System.DateTime, System.DateTime?, string?, decimal, decimal, decimal, string?)7
+
+ToString())MottuVision.Dtos.MotoUpdateDto.ToString()q
+'PrintMembers(System.Text.StringBuilder)FMottuVision.Dtos.MotoUpdateDto.PrintMembers(System.Text.StringBuilder)=
+GetHashCode(),MottuVision.Dtos.MotoUpdateDto.GetHashCode()A
+Equals(object?).MottuVision.Dtos.MotoUpdateDto.Equals(object?)q
+'Equals(MottuVision.Dtos.MotoUpdateDto?)FMottuVision.Dtos.MotoUpdateDto.Equals(MottuVision.Dtos.MotoUpdateDto?)7
+
+<Clone>$())MottuVision.Dtos.MotoUpdateDto.<Clone>$()}
+-MotoUpdateDto(MottuVision.Dtos.MotoUpdateDto)LMottuVision.Dtos.MotoUpdateDto.MotoUpdateDto(MottuVision.Dtos.MotoUpdateDto)›
+úDeconstruct(out string, out string, out string?, out System.DateTime, out System.DateTime?, out string?, out decimal, out decimal, out decimal, out string?)ªMottuVision.Dtos.MotoUpdateDto.Deconstruct(out string, out string, out string?, out System.DateTime, out System.DateTime?, out string?, out decimal, out decimal, out decimal, out string?)K
+EqualityContract.get3MottuVision.Dtos.MotoUpdateDto.EqualityContract.getK
+EqualityContract.set3MottuVision.Dtos.MotoUpdateDto.EqualityContract.set5
+	Placa.get(MottuVision.Dtos.MotoUpdateDto.Placa.get7
+
+Placa.init)MottuVision.Dtos.MotoUpdateDto.Placa.init7
+
+Chassi.get)MottuVision.Dtos.MotoUpdateDto.Chassi.get9
+Chassi.init*MottuVision.Dtos.MotoUpdateDto.Chassi.init7
+
+QrCode.get)MottuVision.Dtos.MotoUpdateDto.QrCode.get9
+QrCode.init*MottuVision.Dtos.MotoUpdateDto.QrCode.initA
+DataEntrada.get.MottuVision.Dtos.MotoUpdateDto.DataEntrada.getC
+DataEntrada.init/MottuVision.Dtos.MotoUpdateDto.DataEntrada.initI
+PrevisaoEntrega.get2MottuVision.Dtos.MotoUpdateDto.PrevisaoEntrega.getK
+PrevisaoEntrega.init3MottuVision.Dtos.MotoUpdateDto.PrevisaoEntrega.init5
+	Fotos.get(MottuVision.Dtos.MotoUpdateDto.Fotos.get7
+
+Fotos.init)MottuVision.Dtos.MotoUpdateDto.Fotos.init7
+
+ZonaId.get)MottuVision.Dtos.MotoUpdateDto.ZonaId.get9
+ZonaId.init*MottuVision.Dtos.MotoUpdateDto.ZonaId.init9
+PatioId.get*MottuVision.Dtos.MotoUpdateDto.PatioId.get;
+PatioId.init+MottuVision.Dtos.MotoUpdateDto.PatioId.init;
+StatusId.get+MottuVision.Dtos.MotoUpdateDto.StatusId.get=
+StatusId.init,MottuVision.Dtos.MotoUpdateDto.StatusId.initA
+Observacoes.get.MottuVision.Dtos.MotoUpdateDto.Observacoes.getC
+Observacoes.init/MottuVision.Dtos.MotoUpdateDto.Observacoes.initø
+MottuVision.Dtos.PagedResult<T>object>
+PagedResult()-MottuVision.Dtos.PagedResult<T>.PagedResult()6
+	Items.get)MottuVision.Dtos.PagedResult<T>.Items.get8
+
+Items.init*MottuVision.Dtos.PagedResult<T>.Items.init4
+Page.get(MottuVision.Dtos.PagedResult<T>.Page.get6
+	Page.init)MottuVision.Dtos.PagedResult<T>.Page.init<
+PageSize.get,MottuVision.Dtos.PagedResult<T>.PageSize.get>
+PageSize.init-MottuVision.Dtos.PagedResult<T>.PageSize.init@
+TotalCount.get.MottuVision.Dtos.PagedResult<T>.TotalCount.getB
+TotalCount.init/MottuVision.Dtos.PagedResult<T>.TotalCount.init6
+	Links.get)MottuVision.Dtos.PagedResult<T>.Links.get8
+
+Links.init*MottuVision.Dtos.PagedResult<T>.Links.init÷
+MottuVision.Dtos.PatioUpdateDtoobjectSystem.IEquatable<T>P
+PatioUpdateDto(string)6MottuVision.Dtos.PatioUpdateDto.PatioUpdateDto(string)8
+
+ToString()*MottuVision.Dtos.PatioUpdateDto.ToString()r
+'PrintMembers(System.Text.StringBuilder)GMottuVision.Dtos.PatioUpdateDto.PrintMembers(System.Text.StringBuilder)>
+GetHashCode()-MottuVision.Dtos.PatioUpdateDto.GetHashCode()B
+Equals(object?)/MottuVision.Dtos.PatioUpdateDto.Equals(object?)t
+(Equals(MottuVision.Dtos.PatioUpdateDto?)HMottuVision.Dtos.PatioUpdateDto.Equals(MottuVision.Dtos.PatioUpdateDto?)8
+
+<Clone>$()*MottuVision.Dtos.PatioUpdateDto.<Clone>$()Ç
+/PatioUpdateDto(MottuVision.Dtos.PatioUpdateDto)OMottuVision.Dtos.PatioUpdateDto.PatioUpdateDto(MottuVision.Dtos.PatioUpdateDto)R
+Deconstruct(out string)7MottuVision.Dtos.PatioUpdateDto.Deconstruct(out string)L
+EqualityContract.get4MottuVision.Dtos.PatioUpdateDto.EqualityContract.getL
+EqualityContract.set4MottuVision.Dtos.PatioUpdateDto.EqualityContract.set4
+Nome.get(MottuVision.Dtos.PatioUpdateDto.Nome.get6
+	Nome.init)MottuVision.Dtos.PatioUpdateDto.Nome.initÜ	
+MottuVision.Data.AppDbContext'Microsoft.EntityFrameworkCore.DbContextobjectÿ
+[AppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<MottuVision.Data.AppDbContext>)yMottuVision.Data.AppDbContext.AppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<MottuVision.Data.AppDbContext>)ò
+;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)YMottuVision.Data.AppDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder):
+Usuarios.get*MottuVision.Data.AppDbContext.Usuarios.get:
+Usuarios.set*MottuVision.Data.AppDbContext.Usuarios.set4
+	Zonas.get'MottuVision.Data.AppDbContext.Zonas.get4
+	Zonas.set'MottuVision.Data.AppDbContext.Zonas.set6
+
+Patios.get(MottuVision.Data.AppDbContext.Patios.get6
+
+Patios.set(MottuVision.Data.AppDbContext.Patios.setB
+StatusGrupos.get.MottuVision.Data.AppDbContext.StatusGrupos.getB
+StatusGrupos.set.MottuVision.Data.AppDbContext.StatusGrupos.set:
+Statuses.get*MottuVision.Data.AppDbContext.Statuses.get:
+Statuses.set*MottuVision.Data.AppDbContext.Statuses.set4
+	Motos.get'MottuVision.Data.AppDbContext.Motos.get4
+	Motos.set'MottuVision.Data.AppDbContext.Motos.set¨
 
  MottuVision.Dtos.StatusCreateDtoobjectSystem.IEquatable<T>e
  StatusCreateDto(string, decimal)AMottuVision.Dtos.StatusCreateDto.StatusCreateDto(string, decimal)9
@@ -258,7 +273,39 @@ $Deconstruct(out string, out decimal)EMottuVision.Dtos.StatusCreateDto.Deconstr
 Nome.get)MottuVision.Dtos.StatusCreateDto.Nome.get7
 	Nome.init*MottuVision.Dtos.StatusCreateDto.Nome.initG
 StatusGrupoId.get2MottuVision.Dtos.StatusCreateDto.StatusGrupoId.getI
-StatusGrupoId.init3MottuVision.Dtos.StatusCreateDto.StatusGrupoId.init¨
+StatusGrupoId.init3MottuVision.Dtos.StatusCreateDto.StatusGrupoId.init€	
+%MottuVision.Dtos.StatusGrupoCreateDtoobjectSystem.IEquatable<T>b
+StatusGrupoCreateDto(string)BMottuVision.Dtos.StatusGrupoCreateDto.StatusGrupoCreateDto(string)>
+
+ToString()0MottuVision.Dtos.StatusGrupoCreateDto.ToString()x
+'PrintMembers(System.Text.StringBuilder)MMottuVision.Dtos.StatusGrupoCreateDto.PrintMembers(System.Text.StringBuilder)D
+GetHashCode()3MottuVision.Dtos.StatusGrupoCreateDto.GetHashCode()H
+Equals(object?)5MottuVision.Dtos.StatusGrupoCreateDto.Equals(object?)Ü
+.Equals(MottuVision.Dtos.StatusGrupoCreateDto?)TMottuVision.Dtos.StatusGrupoCreateDto.Equals(MottuVision.Dtos.StatusGrupoCreateDto?)>
+
+<Clone>$()0MottuVision.Dtos.StatusGrupoCreateDto.<Clone>$()†
+;StatusGrupoCreateDto(MottuVision.Dtos.StatusGrupoCreateDto)aMottuVision.Dtos.StatusGrupoCreateDto.StatusGrupoCreateDto(MottuVision.Dtos.StatusGrupoCreateDto)X
+Deconstruct(out string)=MottuVision.Dtos.StatusGrupoCreateDto.Deconstruct(out string)R
+EqualityContract.get:MottuVision.Dtos.StatusGrupoCreateDto.EqualityContract.getR
+EqualityContract.set:MottuVision.Dtos.StatusGrupoCreateDto.EqualityContract.set:
+Nome.get.MottuVision.Dtos.StatusGrupoCreateDto.Nome.get<
+	Nome.init/MottuVision.Dtos.StatusGrupoCreateDto.Nome.init€	
+%MottuVision.Dtos.StatusGrupoUpdateDtoobjectSystem.IEquatable<T>b
+StatusGrupoUpdateDto(string)BMottuVision.Dtos.StatusGrupoUpdateDto.StatusGrupoUpdateDto(string)>
+
+ToString()0MottuVision.Dtos.StatusGrupoUpdateDto.ToString()x
+'PrintMembers(System.Text.StringBuilder)MMottuVision.Dtos.StatusGrupoUpdateDto.PrintMembers(System.Text.StringBuilder)D
+GetHashCode()3MottuVision.Dtos.StatusGrupoUpdateDto.GetHashCode()H
+Equals(object?)5MottuVision.Dtos.StatusGrupoUpdateDto.Equals(object?)Ü
+.Equals(MottuVision.Dtos.StatusGrupoUpdateDto?)TMottuVision.Dtos.StatusGrupoUpdateDto.Equals(MottuVision.Dtos.StatusGrupoUpdateDto?)>
+
+<Clone>$()0MottuVision.Dtos.StatusGrupoUpdateDto.<Clone>$()†
+;StatusGrupoUpdateDto(MottuVision.Dtos.StatusGrupoUpdateDto)aMottuVision.Dtos.StatusGrupoUpdateDto.StatusGrupoUpdateDto(MottuVision.Dtos.StatusGrupoUpdateDto)X
+Deconstruct(out string)=MottuVision.Dtos.StatusGrupoUpdateDto.Deconstruct(out string)R
+EqualityContract.get:MottuVision.Dtos.StatusGrupoUpdateDto.EqualityContract.getR
+EqualityContract.set:MottuVision.Dtos.StatusGrupoUpdateDto.EqualityContract.set:
+Nome.get.MottuVision.Dtos.StatusGrupoUpdateDto.Nome.get<
+	Nome.init/MottuVision.Dtos.StatusGrupoUpdateDto.Nome.init¨
 
  MottuVision.Dtos.StatusUpdateDtoobjectSystem.IEquatable<T>e
  StatusUpdateDto(string, decimal)AMottuVision.Dtos.StatusUpdateDto.StatusUpdateDto(string, decimal)9
@@ -297,23 +344,7 @@ ToString(),MottuVision.Dtos.UsuarioCreateDto.ToString()t
 Usuario.init.MottuVision.Dtos.UsuarioCreateDto.Usuario.init8
 	Senha.get+MottuVision.Dtos.UsuarioCreateDto.Senha.get:
 
-Senha.init,MottuVision.Dtos.UsuarioCreateDto.Senha.init€	
-%MottuVision.Dtos.StatusGrupoUpdateDtoobjectSystem.IEquatable<T>b
-StatusGrupoUpdateDto(string)BMottuVision.Dtos.StatusGrupoUpdateDto.StatusGrupoUpdateDto(string)>
-
-ToString()0MottuVision.Dtos.StatusGrupoUpdateDto.ToString()x
-'PrintMembers(System.Text.StringBuilder)MMottuVision.Dtos.StatusGrupoUpdateDto.PrintMembers(System.Text.StringBuilder)D
-GetHashCode()3MottuVision.Dtos.StatusGrupoUpdateDto.GetHashCode()H
-Equals(object?)5MottuVision.Dtos.StatusGrupoUpdateDto.Equals(object?)Ü
-.Equals(MottuVision.Dtos.StatusGrupoUpdateDto?)TMottuVision.Dtos.StatusGrupoUpdateDto.Equals(MottuVision.Dtos.StatusGrupoUpdateDto?)>
-
-<Clone>$()0MottuVision.Dtos.StatusGrupoUpdateDto.<Clone>$()†
-;StatusGrupoUpdateDto(MottuVision.Dtos.StatusGrupoUpdateDto)aMottuVision.Dtos.StatusGrupoUpdateDto.StatusGrupoUpdateDto(MottuVision.Dtos.StatusGrupoUpdateDto)X
-Deconstruct(out string)=MottuVision.Dtos.StatusGrupoUpdateDto.Deconstruct(out string)R
-EqualityContract.get:MottuVision.Dtos.StatusGrupoUpdateDto.EqualityContract.getR
-EqualityContract.set:MottuVision.Dtos.StatusGrupoUpdateDto.EqualityContract.set:
-Nome.get.MottuVision.Dtos.StatusGrupoUpdateDto.Nome.get<
-	Nome.init/MottuVision.Dtos.StatusGrupoUpdateDto.Nome.init¨
+Senha.init,MottuVision.Dtos.UsuarioCreateDto.Senha.init¨
 
 !MottuVision.Dtos.UsuarioUpdateDtoobjectSystem.IEquatable<T>f
  UsuarioUpdateDto(string, string)BMottuVision.Dtos.UsuarioUpdateDto.UsuarioUpdateDto(string, string):
@@ -371,35 +402,4 @@ ToString())MottuVision.Dtos.ZonaUpdateDto.ToString()q
 	Nome.init(MottuVision.Dtos.ZonaUpdateDto.Nome.init5
 	Letra.get(MottuVision.Dtos.ZonaUpdateDto.Letra.get7
 
-Letra.init)MottuVision.Dtos.ZonaUpdateDto.Letra.initÜ	
-MottuVision.Data.AppDbContext'Microsoft.EntityFrameworkCore.DbContextobjectÿ
-[AppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<MottuVision.Data.AppDbContext>)yMottuVision.Data.AppDbContext.AppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<MottuVision.Data.AppDbContext>)ò
-;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)YMottuVision.Data.AppDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder):
-Usuarios.get*MottuVision.Data.AppDbContext.Usuarios.get:
-Usuarios.set*MottuVision.Data.AppDbContext.Usuarios.set4
-	Zonas.get'MottuVision.Data.AppDbContext.Zonas.get4
-	Zonas.set'MottuVision.Data.AppDbContext.Zonas.set6
-
-Patios.get(MottuVision.Data.AppDbContext.Patios.get6
-
-Patios.set(MottuVision.Data.AppDbContext.Patios.setB
-StatusGrupos.get.MottuVision.Data.AppDbContext.StatusGrupos.getB
-StatusGrupos.set.MottuVision.Data.AppDbContext.StatusGrupos.set:
-Statuses.get*MottuVision.Data.AppDbContext.Statuses.get:
-Statuses.set*MottuVision.Data.AppDbContext.Statuses.set4
-	Motos.get'MottuVision.Data.AppDbContext.Motos.get4
-	Motos.set'MottuVision.Data.AppDbContext.Motos.setø
-MottuVision.Dtos.PagedResult<T>object>
-PagedResult()-MottuVision.Dtos.PagedResult<T>.PagedResult()6
-	Items.get)MottuVision.Dtos.PagedResult<T>.Items.get8
-
-Items.init*MottuVision.Dtos.PagedResult<T>.Items.init4
-Page.get(MottuVision.Dtos.PagedResult<T>.Page.get6
-	Page.init)MottuVision.Dtos.PagedResult<T>.Page.init<
-PageSize.get,MottuVision.Dtos.PagedResult<T>.PageSize.get>
-PageSize.init-MottuVision.Dtos.PagedResult<T>.PageSize.init@
-TotalCount.get.MottuVision.Dtos.PagedResult<T>.TotalCount.getB
-TotalCount.init/MottuVision.Dtos.PagedResult<T>.TotalCount.init6
-	Links.get)MottuVision.Dtos.PagedResult<T>.Links.get8
-
-Links.init*MottuVision.Dtos.PagedResult<T>.Links.init
+Letra.init)MottuVision.Dtos.ZonaUpdateDto.Letra.init

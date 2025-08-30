@@ -259,6 +259,7 @@ A:\RiderProjects\teste de reparo\bin\Debug\net8.0\MottuVision.deps.json
 A:\RiderProjects\teste de reparo\bin\Debug\net8.0\MottuVision.runtimeconfig.json
 A:\RiderProjects\teste de reparo\bin\Debug\net8.0\MottuVision.dll
 A:\RiderProjects\teste de reparo\bin\Debug\net8.0\MottuVision.pdb
+A:\RiderProjects\teste de reparo\bin\Debug\net8.0\DotNetEnv.dll
 A:\RiderProjects\teste de reparo\bin\Debug\net8.0\Humanizer.dll
 A:\RiderProjects\teste de reparo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 A:\RiderProjects\teste de reparo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -276,6 +277,7 @@ A:\RiderProjects\teste de reparo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.d
 A:\RiderProjects\teste de reparo\bin\Debug\net8.0\Mono.TextTemplating.dll
 A:\RiderProjects\teste de reparo\bin\Debug\net8.0\Oracle.EntityFrameworkCore.dll
 A:\RiderProjects\teste de reparo\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+A:\RiderProjects\teste de reparo\bin\Debug\net8.0\Sprache.dll
 A:\RiderProjects\teste de reparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
 A:\RiderProjects\teste de reparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 A:\RiderProjects\teste de reparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll

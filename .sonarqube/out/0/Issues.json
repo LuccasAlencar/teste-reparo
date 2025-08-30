@@ -18,12 +18,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/appsettings.json",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/appsettings.json",
                 "region": {
                   "startLine": 10,
                   "startColumn": 26,
                   "endLine": 10,
-                  "endColumn": 180
+                  "endColumn": 184
                 }
               }
             }
@@ -33,775 +33,18 @@
           }
         },
         {
-          "ruleId": "S3776",
-          "level": "warning",
-          "message": "Refactor this top-level file to reduce its Cognitive Complexity from 113 to the 15 allowed.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 1,
-                  "startColumn": 1,
-                  "endLine": 1,
-                  "endColumn": 1
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 101,
-                  "startColumn": 21,
-                  "endLine": 101,
-                  "endColumn": 22
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 102,
-                  "startColumn": 41,
-                  "endLine": 102,
-                  "endColumn": 42
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 102,
-                  "startColumn": 32,
-                  "endLine": 102,
-                  "endColumn": 34
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 139,
-                  "startColumn": 5,
-                  "endLine": 139,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 163,
-                  "startColumn": 5,
-                  "endLine": 163,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 208,
-                  "startColumn": 5,
-                  "endLine": 208,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 210,
-                  "startColumn": 5,
-                  "endLine": 210,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 210,
-                  "startColumn": 70,
-                  "endLine": 210,
-                  "endColumn": 72
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 251,
-                  "startColumn": 5,
-                  "endLine": 251,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 300,
-                  "startColumn": 5,
-                  "endLine": 300,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 324,
-                  "startColumn": 5,
-                  "endLine": 324,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 324,
-                  "startColumn": 45,
-                  "endLine": 324,
-                  "endColumn": 47
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 364,
-                  "startColumn": 5,
-                  "endLine": 364,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 365,
-                  "startColumn": 5,
-                  "endLine": 365,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 365,
-                  "startColumn": 45,
-                  "endLine": 365,
-                  "endColumn": 47
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 406,
-                  "startColumn": 5,
-                  "endLine": 406,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 426,
-                  "startColumn": 5,
-                  "endLine": 426,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 458,
-                  "startColumn": 5,
-                  "endLine": 458,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 482,
-                  "startColumn": 5,
-                  "endLine": 482,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 483,
-                  "startColumn": 5,
-                  "endLine": 483,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 484,
-                  "startColumn": 5,
-                  "endLine": 484,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 485,
-                  "startColumn": 5,
-                  "endLine": 485,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 486,
-                  "startColumn": 5,
-                  "endLine": 486,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 530,
-                  "startColumn": 5,
-                  "endLine": 530,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 532,
-                  "startColumn": 5,
-                  "endLine": 532,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 533,
-                  "startColumn": 5,
-                  "endLine": 533,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 534,
-                  "startColumn": 5,
-                  "endLine": 534,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 535,
-                  "startColumn": 5,
-                  "endLine": 535,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 535,
-                  "startColumn": 59,
-                  "endLine": 535,
-                  "endColumn": 61
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 536,
-                  "startColumn": 5,
-                  "endLine": 536,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 536,
-                  "startColumn": 61,
-                  "endLine": 536,
-                  "endColumn": 63
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 576,
-                  "startColumn": 5,
-                  "endLine": 576,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 595,
-                  "startColumn": 21,
-                  "endLine": 595,
-                  "endColumn": 22
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 596,
-                  "startColumn": 41,
-                  "endLine": 596,
-                  "endColumn": 42
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 596,
-                  "startColumn": 32,
-                  "endLine": 596,
-                  "endColumn": 34
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 613,
-                  "startColumn": 5,
-                  "endLine": 613,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 625,
-                  "startColumn": 5,
-                  "endLine": 625,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 641,
-                  "startColumn": 5,
-                  "endLine": 641,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 642,
-                  "startColumn": 5,
-                  "endLine": 642,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 657,
-                  "startColumn": 5,
-                  "endLine": 657,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 658,
-                  "startColumn": 5,
-                  "endLine": 658,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 675,
-                  "startColumn": 21,
-                  "endLine": 675,
-                  "endColumn": 22
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 676,
-                  "startColumn": 41,
-                  "endLine": 676,
-                  "endColumn": 42
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 676,
-                  "startColumn": 32,
-                  "endLine": 676,
-                  "endColumn": 34
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 693,
-                  "startColumn": 5,
-                  "endLine": 693,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 705,
-                  "startColumn": 5,
-                  "endLine": 705,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 721,
-                  "startColumn": 5,
-                  "endLine": 721,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 722,
-                  "startColumn": 5,
-                  "endLine": 722,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 737,
-                  "startColumn": 5,
-                  "endLine": 737,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 738,
-                  "startColumn": 5,
-                  "endLine": 738,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 755,
-                  "startColumn": 21,
-                  "endLine": 755,
-                  "endColumn": 22
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 756,
-                  "startColumn": 41,
-                  "endLine": 756,
-                  "endColumn": 42
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 756,
-                  "startColumn": 32,
-                  "endLine": 756,
-                  "endColumn": 34
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 774,
-                  "startColumn": 5,
-                  "endLine": 774,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 786,
-                  "startColumn": 5,
-                  "endLine": 786,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 787,
-                  "startColumn": 5,
-                  "endLine": 787,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 809,
-                  "startColumn": 5,
-                  "endLine": 809,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 810,
-                  "startColumn": 5,
-                  "endLine": 810,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 811,
-                  "startColumn": 5,
-                  "endLine": 811,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 828,
-                  "startColumn": 5,
-                  "endLine": 828,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 829,
-                  "startColumn": 5,
-                  "endLine": 829,
-                  "endColumn": 7
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "0": "+2 (incl 1 for nesting)",
-              "1": "+2 (incl 1 for nesting)",
-              "10": "+2 (incl 1 for nesting)",
-              "11": "+1",
-              "12": "+2 (incl 1 for nesting)",
-              "13": "+2 (incl 1 for nesting)",
-              "14": "+1",
-              "15": "+2 (incl 1 for nesting)",
-              "16": "+2 (incl 1 for nesting)",
-              "17": "+2 (incl 1 for nesting)",
-              "18": "+2 (incl 1 for nesting)",
-              "19": "+2 (incl 1 for nesting)",
-              "2": "+1",
-              "20": "+2 (incl 1 for nesting)",
-              "21": "+2 (incl 1 for nesting)",
-              "22": "+2 (incl 1 for nesting)",
-              "23": "+2 (incl 1 for nesting)",
-              "24": "+2 (incl 1 for nesting)",
-              "25": "+2 (incl 1 for nesting)",
-              "26": "+2 (incl 1 for nesting)",
-              "27": "+2 (incl 1 for nesting)",
-              "28": "+1",
-              "29": "+2 (incl 1 for nesting)",
-              "3": "+2 (incl 1 for nesting)",
-              "30": "+1",
-              "31": "+2 (incl 1 for nesting)",
-              "32": "+2 (incl 1 for nesting)",
-              "33": "+2 (incl 1 for nesting)",
-              "34": "+1",
-              "35": "+2 (incl 1 for nesting)",
-              "36": "+2 (incl 1 for nesting)",
-              "37": "+2 (incl 1 for nesting)",
-              "38": "+2 (incl 1 for nesting)",
-              "39": "+2 (incl 1 for nesting)",
-              "4": "+2 (incl 1 for nesting)",
-              "40": "+2 (incl 1 for nesting)",
-              "41": "+2 (incl 1 for nesting)",
-              "42": "+2 (incl 1 for nesting)",
-              "43": "+1",
-              "44": "+2 (incl 1 for nesting)",
-              "45": "+2 (incl 1 for nesting)",
-              "46": "+2 (incl 1 for nesting)",
-              "47": "+2 (incl 1 for nesting)",
-              "48": "+2 (incl 1 for nesting)",
-              "49": "+2 (incl 1 for nesting)",
-              "5": "+2 (incl 1 for nesting)",
-              "50": "+2 (incl 1 for nesting)",
-              "51": "+2 (incl 1 for nesting)",
-              "52": "+1",
-              "53": "+2 (incl 1 for nesting)",
-              "54": "+2 (incl 1 for nesting)",
-              "55": "+2 (incl 1 for nesting)",
-              "56": "+2 (incl 1 for nesting)",
-              "57": "+2 (incl 1 for nesting)",
-              "58": "+2 (incl 1 for nesting)",
-              "59": "+2 (incl 1 for nesting)",
-              "6": "+2 (incl 1 for nesting)",
-              "60": "+2 (incl 1 for nesting)",
-              "7": "+1",
-              "8": "+2 (incl 1 for nesting)",
-              "9": "+2 (incl 1 for nesting)"
-            }
-          }
-        },
-        {
           "ruleId": "S1192",
           "level": "warning",
           "message": "Define a constant instead of using this literal 'application/json' 18 times.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 120,
-                  "startColumn": 14,
-                  "endLine": 120,
-                  "endColumn": 32
+                  "startLine": 81,
+                  "startColumn": 26,
+                  "endLine": 81,
+                  "endColumn": 44
                 }
               }
             }
@@ -809,188 +52,188 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 150,
-                  "startColumn": 14,
-                  "endLine": 150,
-                  "endColumn": 32
+                  "startLine": 105,
+                  "startColumn": 26,
+                  "endLine": 105,
+                  "endColumn": 44
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 183,
-                  "startColumn": 14,
-                  "endLine": 183,
-                  "endColumn": 32
+                  "startLine": 123,
+                  "startColumn": 26,
+                  "endLine": 123,
+                  "endColumn": 44
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 194,
-                  "startColumn": 14,
-                  "endLine": 194,
-                  "endColumn": 32
+                  "startLine": 134,
+                  "startColumn": 26,
+                  "endLine": 134,
+                  "endColumn": 44
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 225,
-                  "startColumn": 14,
-                  "endLine": 225,
-                  "endColumn": 32
+                  "startLine": 152,
+                  "startColumn": 26,
+                  "endLine": 152,
+                  "endColumn": 44
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 236,
-                  "startColumn": 14,
-                  "endLine": 236,
-                  "endColumn": 32
+                  "startLine": 163,
+                  "startColumn": 26,
+                  "endLine": 163,
+                  "endColumn": 44
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 285,
-                  "startColumn": 14,
-                  "endLine": 285,
-                  "endColumn": 32
+                  "startLine": 262,
+                  "startColumn": 26,
+                  "endLine": 262,
+                  "endColumn": 44
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 282,
+                  "startColumn": 26,
+                  "endLine": 282,
+                  "endColumn": 44
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 300,
+                  "startColumn": 26,
+                  "endLine": 300,
+                  "endColumn": 44
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
                   "startLine": 311,
-                  "startColumn": 14,
+                  "startColumn": 26,
                   "endLine": 311,
-                  "endColumn": 32
+                  "endColumn": 44
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 339,
-                  "startColumn": 14,
-                  "endLine": 339,
-                  "endColumn": 32
+                  "startLine": 329,
+                  "startColumn": 26,
+                  "endLine": 329,
+                  "endColumn": 44
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 350,
-                  "startColumn": 14,
-                  "endLine": 350,
-                  "endColumn": 32
+                  "startLine": 340,
+                  "startColumn": 26,
+                  "endLine": 340,
+                  "endColumn": 44
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 380,
-                  "startColumn": 14,
-                  "endLine": 380,
-                  "endColumn": 32
+                  "startLine": 437,
+                  "startColumn": 26,
+                  "endLine": 437,
+                  "endColumn": 44
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 391,
-                  "startColumn": 14,
-                  "endLine": 391,
-                  "endColumn": 32
+                  "startLine": 457,
+                  "startColumn": 26,
+                  "endLine": 457,
+                  "endColumn": 44
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 442,
-                  "startColumn": 14,
-                  "endLine": 442,
-                  "endColumn": 32
+                  "startLine": 475,
+                  "startColumn": 26,
+                  "endLine": 475,
+                  "endColumn": 44
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 469,
-                  "startColumn": 14,
-                  "endLine": 469,
-                  "endColumn": 32
+                  "startLine": 486,
+                  "startColumn": 26,
+                  "endLine": 486,
+                  "endColumn": 44
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 505,
-                  "startColumn": 14,
-                  "endLine": 505,
-                  "endColumn": 32
+                  "startLine": 504,
+                  "startColumn": 26,
+                  "endLine": 504,
+                  "endColumn": 44
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 516,
-                  "startColumn": 14,
-                  "endLine": 516,
-                  "endColumn": 32
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 550,
-                  "startColumn": 14,
-                  "endLine": 550,
-                  "endColumn": 32
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 561,
-                  "startColumn": 14,
-                  "endLine": 561,
-                  "endColumn": 32
+                  "startLine": 515,
+                  "startColumn": 26,
+                  "endLine": 515,
+                  "endColumn": 44
                 }
               }
             }
@@ -1025,12 +268,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 136,
-                  "startColumn": 17,
-                  "endLine": 136,
-                  "endColumn": 32
+                  "startLine": 96,
+                  "startColumn": 25,
+                  "endLine": 96,
+                  "endColumn": 40
                 }
               }
             }
@@ -1038,188 +281,188 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 205,
-                  "startColumn": 17,
-                  "endLine": 205,
-                  "endColumn": 32
+                  "startLine": 144,
+                  "startColumn": 25,
+                  "endLine": 144,
+                  "endColumn": 40
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 248,
-                  "startColumn": 20,
-                  "endLine": 248,
-                  "endColumn": 35
+                  "startLine": 174,
+                  "startColumn": 28,
+                  "endLine": 174,
+                  "endColumn": 43
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 297,
-                  "startColumn": 14,
-                  "endLine": 297,
-                  "endColumn": 29
+                  "startLine": 273,
+                  "startColumn": 22,
+                  "endLine": 273,
+                  "endColumn": 37
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 361,
-                  "startColumn": 14,
-                  "endLine": 361,
-                  "endColumn": 29
+                  "startLine": 321,
+                  "startColumn": 22,
+                  "endLine": 321,
+                  "endColumn": 37
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 403,
-                  "startColumn": 17,
-                  "endLine": 403,
-                  "endColumn": 32
+                  "startLine": 351,
+                  "startColumn": 25,
+                  "endLine": 351,
+                  "endColumn": 40
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 454,
-                  "startColumn": 14,
-                  "endLine": 454,
-                  "endColumn": 29
+                  "startLine": 448,
+                  "startColumn": 22,
+                  "endLine": 448,
+                  "endColumn": 37
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 527,
-                  "startColumn": 14,
-                  "endLine": 527,
-                  "endColumn": 29
+                  "startLine": 496,
+                  "startColumn": 22,
+                  "endLine": 496,
+                  "endColumn": 37
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 573,
-                  "startColumn": 17,
-                  "endLine": 573,
-                  "endColumn": 32
+                  "startLine": 526,
+                  "startColumn": 25,
+                  "endLine": 526,
+                  "endColumn": 40
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 610,
-                  "startColumn": 15,
-                  "endLine": 610,
-                  "endColumn": 30
+                  "startLine": 677,
+                  "startColumn": 23,
+                  "endLine": 677,
+                  "endColumn": 38
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 638,
-                  "startColumn": 15,
-                  "endLine": 638,
-                  "endColumn": 30
+                  "startLine": 691,
+                  "startColumn": 23,
+                  "endLine": 691,
+                  "endColumn": 38
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 654,
-                  "startColumn": 18,
-                  "endLine": 654,
-                  "endColumn": 33
+                  "startLine": 698,
+                  "startColumn": 26,
+                  "endLine": 698,
+                  "endColumn": 41
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 690,
-                  "startColumn": 21,
-                  "endLine": 690,
-                  "endColumn": 36
+                  "startLine": 782,
+                  "startColumn": 29,
+                  "endLine": 782,
+                  "endColumn": 44
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 718,
-                  "startColumn": 21,
-                  "endLine": 718,
-                  "endColumn": 36
+                  "startLine": 796,
+                  "startColumn": 29,
+                  "endLine": 796,
+                  "endColumn": 44
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 734,
-                  "startColumn": 24,
-                  "endLine": 734,
-                  "endColumn": 39
+                  "startLine": 803,
+                  "startColumn": 32,
+                  "endLine": 803,
+                  "endColumn": 47
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 771,
-                  "startColumn": 17,
-                  "endLine": 771,
-                  "endColumn": 32
+                  "startLine": 887,
+                  "startColumn": 25,
+                  "endLine": 887,
+                  "endColumn": 40
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 806,
-                  "startColumn": 17,
-                  "endLine": 806,
-                  "endColumn": 32
+                  "startLine": 901,
+                  "startColumn": 25,
+                  "endLine": 901,
+                  "endColumn": 40
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 825,
-                  "startColumn": 20,
-                  "endLine": 825,
-                  "endColumn": 35
+                  "startLine": 908,
+                  "startColumn": 28,
+                  "endLine": 908,
+                  "endColumn": 43
                 }
               }
             }
@@ -1254,12 +497,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 200,
-                  "startColumn": 63,
-                  "endLine": 200,
-                  "endColumn": 82
+                  "startLine": 140,
+                  "startColumn": 75,
+                  "endLine": 140,
+                  "endColumn": 94
                 }
               }
             }
@@ -1267,56 +510,56 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 242,
-                  "startColumn": 63,
-                  "endLine": 242,
-                  "endColumn": 82
+                  "startLine": 169,
+                  "startColumn": 75,
+                  "endLine": 169,
+                  "endColumn": 94
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 356,
-                  "startColumn": 63,
-                  "endLine": 356,
-                  "endColumn": 82
+                  "startLine": 317,
+                  "startColumn": 75,
+                  "endLine": 317,
+                  "endColumn": 94
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 397,
-                  "startColumn": 63,
-                  "endLine": 397,
-                  "endColumn": 82
+                  "startLine": 346,
+                  "startColumn": 75,
+                  "endLine": 346,
+                  "endColumn": 94
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 522,
-                  "startColumn": 63,
-                  "endLine": 522,
-                  "endColumn": 82
+                  "startLine": 492,
+                  "startColumn": 75,
+                  "endLine": 492,
+                  "endColumn": 94
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 567,
-                  "startColumn": 63,
-                  "endLine": 567,
-                  "endColumn": 82
+                  "startLine": 521,
+                  "startColumn": 75,
+                  "endLine": 521,
+                  "endColumn": 94
                 }
               }
             }
@@ -1339,12 +582,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 625,
-                  "startColumn": 77,
-                  "endLine": 625,
-                  "endColumn": 96
+                  "startLine": 729,
+                  "startColumn": 44,
+                  "endLine": 729,
+                  "endColumn": 63
                 }
               }
             }
@@ -1352,56 +595,56 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 642,
-                  "startColumn": 77,
-                  "endLine": 642,
-                  "endColumn": 96
+                  "startLine": 748,
+                  "startColumn": 44,
+                  "endLine": 748,
+                  "endColumn": 63
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 705,
-                  "startColumn": 77,
-                  "endLine": 705,
-                  "endColumn": 96
+                  "startLine": 834,
+                  "startColumn": 44,
+                  "endLine": 834,
+                  "endColumn": 63
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 722,
-                  "startColumn": 77,
-                  "endLine": 722,
-                  "endColumn": 96
+                  "startLine": 853,
+                  "startColumn": 44,
+                  "endLine": 853,
+                  "endColumn": 63
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 786,
-                  "startColumn": 77,
-                  "endLine": 786,
-                  "endColumn": 96
+                  "startLine": 940,
+                  "startColumn": 44,
+                  "endLine": 940,
+                  "endColumn": 63
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 810,
-                  "startColumn": 77,
-                  "endLine": 810,
-                  "endColumn": 96
+                  "startLine": 963,
+                  "startColumn": 44,
+                  "endLine": 963,
+                  "endColumn": 63
                 }
               }
             }
@@ -1418,13 +661,97 @@
           }
         },
         {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declarar tipos em namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 21,
+                  "endLine": 66,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declarar tipos em namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 247,
+                  "startColumn": 21,
+                  "endLine": 247,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'UsuarioEndpoints' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 21,
+                  "endLine": 66,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'ZonaEndpoints' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 247,
+                  "startColumn": 21,
+                  "endLine": 247,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S1192",
           "level": "warning",
           "message": "Define a constant instead of using this literal 'DECIMAL(18, 2)' 10 times.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 18,
                   "startColumn": 54,
@@ -1437,7 +764,7 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 30,
                   "startColumn": 54,
@@ -1448,7 +775,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 42,
                   "startColumn": 54,
@@ -1459,7 +786,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 55,
                   "startColumn": 54,
@@ -1470,7 +797,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 68,
                   "startColumn": 54,
@@ -1481,7 +808,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 70,
                   "startColumn": 67,
@@ -1492,7 +819,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 87,
                   "startColumn": 54,
@@ -1503,7 +830,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 94,
                   "startColumn": 59,
@@ -1514,7 +841,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 95,
                   "startColumn": 60,
@@ -1525,7 +852,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 96,
                   "startColumn": 61,
@@ -1557,7 +884,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 19,
                   "startColumn": 55,
@@ -1570,7 +897,7 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 31,
                   "startColumn": 55,
@@ -1581,7 +908,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 43,
                   "startColumn": 58,
@@ -1592,7 +919,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 56,
                   "startColumn": 55,
@@ -1603,7 +930,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 69,
                   "startColumn": 55,
@@ -1630,7 +957,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 39,
                   "startColumn": 23,
@@ -1643,7 +970,7 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 156,
                   "startColumn": 24,
@@ -1654,7 +981,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 157,
                   "startColumn": 25,
@@ -1665,7 +992,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 168,
                   "startColumn": 23,
@@ -1691,7 +1018,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 65,
                   "startColumn": 23,
@@ -1704,7 +1031,7 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 111,
                   "startColumn": 41,
@@ -1715,7 +1042,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 151,
                   "startColumn": 24,
@@ -1726,7 +1053,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Migrations/20250828185504_InitialCreate.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Migrations/20250830165506_InitialCreate.cs",
                 "region": {
                   "startLine": 174,
                   "startColumn": 23,
@@ -1746,18 +1073,207 @@
           }
         },
         {
-          "ruleId": "S108",
-          "level": "warning",
-          "message": "Either remove or fill this block of code.",
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declarar tipos em namespaces",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 44,
-                  "startColumn": 1,
-                  "endLine": 46,
-                  "endColumn": 2
+                  "startLine": 664,
+                  "startColumn": 21,
+                  "endLine": 664,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'PatioEndpoints' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 664,
+                  "startColumn": 21,
+                  "endLine": 664,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declarar tipos em namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 422,
+                  "startColumn": 21,
+                  "endLine": 422,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'MotoEndpoints' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 422,
+                  "startColumn": 21,
+                  "endLine": 422,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declarar tipos em namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 769,
+                  "startColumn": 21,
+                  "endLine": 769,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'StatusGrupoEndpoints' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 769,
+                  "startColumn": 21,
+                  "endLine": 769,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declarar tipos em namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 874,
+                  "startColumn": 21,
+                  "endLine": 874,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'StatusEndpoints' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 874,
+                  "startColumn": 21,
+                  "endLine": 874,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declarar tipos em namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 990,
+                  "startColumn": 21,
+                  "endLine": 990,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'ApiHelper' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
+                "region": {
+                  "startLine": 990,
+                  "startColumn": 21,
+                  "endLine": 990,
+                  "endColumn": 30
                 }
               }
             }
@@ -1773,12 +1289,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
+                "uri": "file:///A:/RiderProjects/teste%20de%20reparo/Program.cs",
                 "region": {
-                  "startLine": 80,
-                  "startColumn": 5,
-                  "endLine": 80,
-                  "endColumn": 20
+                  "startLine": 1031,
+                  "startColumn": 9,
+                  "endLine": 1031,
+                  "endColumn": 24
                 }
               }
             }
@@ -1786,150 +1302,22 @@
           "properties": {
             "warningLevel": 1
           }
-        },
-        {
-          "ruleId": "CA1860",
-          "level": "note",
-          "message": "Prefira comparar 'Count' com 0 em vez de usar 'Any()', tanto para clareza quanto para desempenho",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 658,
-                  "startColumn": 9,
-                  "endLine": 658,
-                  "endColumn": 22
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "DiagnosticPropertyKey": "Count"
-            }
-          }
-        },
-        {
-          "ruleId": "CA1860",
-          "level": "note",
-          "message": "Prefira comparar 'Count' com 0 em vez de usar 'Any()', tanto para clareza quanto para desempenho",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 738,
-                  "startColumn": 9,
-                  "endLine": 738,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "DiagnosticPropertyKey": "Count"
-            }
-          }
-        },
-        {
-          "ruleId": "CA1860",
-          "level": "note",
-          "message": "Prefira comparar 'Count' com 0 em vez de usar 'Any()', tanto para clareza quanto para desempenho",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 829,
-                  "startColumn": 9,
-                  "endLine": 829,
-                  "endColumn": 22
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "DiagnosticPropertyKey": "Count"
-            }
-          }
-        },
-        {
-          "ruleId": "CA1862",
-          "level": "note",
-          "message": "Prefira a sobrecarga do método de comparação de strings 'string.Contains(string)' que usa um valor enum 'StringComparison' para realizar uma comparação que não diferencia maiúsculas de minúsculas, mas lembre-se de que isso pode causar mudanças sutis no comportamento, portanto, certifique-se de realizar testes completos após aplicar a sugestão, ou se a comparação culturalmente sensível não for necessária, considere usar 'StringComparison.OrdinalIgnoreCase'",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///A:/RiderProjects/MottuVisionV1/Program.cs",
-                "region": {
-                  "startLine": 427,
-                  "startColumn": 34,
-                  "endLine": 427,
-                  "endColumn": 77
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "LeftOffendingMethod": "ToLower",
-              "RightOffendingMethod": "ToLower"
-            }
-          }
         }
       ],
       "rules": {
-        "CA1860": {
-          "id": "CA1860",
-          "shortDescription": "Evite usar o método de extensão 'Enumerable.Any()'",
-          "fullDescription": "Prefira usar as propriedades 'IsEmpty', 'Count' ou 'Length', conforme disponível, em vez de chamar 'Enumerable.Any()'. A intenção é mais clara e tem mais desempenho do que usar o método de extensão 'Enumerable.Any()'.",
+        "CA1050": {
+          "id": "CA1050",
+          "shortDescription": "Declarar tipos em namespaces",
+          "fullDescription": "Os tipos são declarados em namespaces para impedir colisões de nomes e como uma forma de organizar tipos relacionados em uma hierarquia de objetos.",
           "defaultLevel": "note",
-          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1860",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1050",
           "properties": {
-            "category": "Performance",
+            "category": "Design",
             "isEnabledByDefault": true,
             "tags": [
+              "PortedFromFxCop",
               "Telemetry",
               "EnabledRuleInAggressiveMode"
-            ]
-          }
-        },
-        "CA1862": {
-          "id": "CA1862",
-          "shortDescription": "Use as sobrecargas do método 'StringComparison' para realizar comparações de strings que não diferenciam maiúsculas de minúsculas",
-          "fullDescription": "Evite chamar 'ToLower', 'ToUpper', 'ToLowerInvariant' e 'ToUpperInvariant' para realizar comparações de cadeias de caracteres que não diferenciam maiúsculas de minúsculas, pois elas levam a uma alocação. Em vez disso, prefira chamar as sobrecargas de método de 'Contains', 'IndexOf' e 'StartsWith' que usam um valor enum 'StringComparison' para realizar comparações que não diferenciam maiúsculas de minúsculas. Mudar para uma sobrecarga que utiliza um 'StringComparison' pode causar mudanças sutis no comportamento, por isso é importante realizar testes completos após aplicar a sugestão. Além disso, se uma comparação culturalmente sensível não for necessária, considere usar 'StringComparison.OrdinalIgnoreCase'.",
-          "defaultLevel": "note",
-          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1862",
-          "properties": {
-            "category": "Performance",
-            "isEnabledByDefault": true,
-            "tags": [
-              "Telemetry",
-              "EnabledRuleInAggressiveMode"
-            ]
-          }
-        },
-        "S108": {
-          "id": "S108",
-          "shortDescription": "Nested blocks of code should not be left empty",
-          "fullDescription": "An empty code block is confusing. It will require some effort from maintainers to determine if it is intentional or indicates the implementation is incomplete.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-108",
-          "properties": {
-            "category": "Major Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "MainSourceScope",
-              "TestSourceScope",
-              "SonarWay"
             ]
           }
         },
@@ -1981,15 +1369,15 @@
             ]
           }
         },
-        "S3776": {
-          "id": "S3776",
-          "shortDescription": "Cognitive Complexity of methods should not be too high",
-          "fullDescription": "This rule raises an issue when the code cognitive complexity of a function is above a certain threshold.",
+        "S3903": {
+          "id": "S3903",
+          "shortDescription": "Types should be defined in named namespaces",
+          "fullDescription": "Types are declared in namespaces in order to prevent name collisions and as a way to organize them into the object hierarchy. Types that are defined outside any named namespace are in a global namespace that cannot be referenced in code.",
           "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3776",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3903",
           "properties": {
-            "category": "Critical Code Smell",
-            "isEnabledByDefault": false,
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
             "tags": [
               "C#",
               "MainSourceScope",

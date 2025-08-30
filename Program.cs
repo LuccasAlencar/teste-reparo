@@ -10,6 +10,10 @@ using MottuVision.Api;
 using System.Data.Common;
 using System.Data;
 using System.Text.Json.Serialization;
+using DotNetEnv;
+
+// Carrega as variáveis de ambiente do arquivo .env
+Env.Load();
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,12 +23,18 @@ builder.Services.AddControllers()
         options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
     });
 
-// DB Oracle
+// DB Oracle - Usando variáveis de ambiente
 builder.Services.AddDbContext<AppDbContext>(opt =>
 {
-    var cs = builder.Configuration.GetConnectionString("OracleConnection")
-             ?? throw new InvalidOperationException("ConnectionStrings:OracleConnection não configurada.");
-    opt.UseOracle(cs);
+    var oracleUser = Environment.GetEnvironmentVariable("ORACLE_USER") ?? "SeuUsuario";
+    var oraclePassword = Environment.GetEnvironmentVariable("ORACLE_PASSWORD") ?? "SuaSenha";
+    var oracleHost = Environment.GetEnvironmentVariable("ORACLE_HOST") ?? "oracle.fiap.com.br";
+    var oraclePort = Environment.GetEnvironmentVariable("ORACLE_PORT") ?? "1521";
+    var oracleService = Environment.GetEnvironmentVariable("ORACLE_SERVICE") ?? "orcl";
+    
+    var connectionString = $"User Id={oracleUser};Password={oraclePassword};Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST={oracleHost})(PORT={oraclePort}))(CONNECT_DATA=(SERVICE_NAME={oracleService})));";
+    
+    opt.UseOracle(connectionString);
 });
 
 builder.Services.AddEndpointsApiExplorer();
